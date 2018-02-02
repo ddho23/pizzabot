@@ -1,0 +1,24 @@
+{
+  "data": {
+      "price": 32.41,
+      "address": {
+          "Street": "25 Union St",
+          "AddressLine2": "GOODWIN HALL #10",
+          "City": "KINGSTON",
+          "Region": "ON",
+          "PostalCode": "K7L2N8",
+          "Type": "Campus",
+          "BuildingID": "2934",
+          "CampusID": "264",
+          "AddressLine3": "QUEEN'S UNIVERSITY - MAIN CAMPUS",
+          "StreetName": "Union St",
+          "UnitNumber": "210",
+          "OrganizationName": "210 GOODWIN HALL #10 QUEEN'S UNIVERSITY - MAIN CAMPUS",
+          "StreetNumber": "25"
+      },
+      "phone": "",
+      "waitTimeMins": "31-41"
+  },
+"order": {},
+"raw": {}
+}

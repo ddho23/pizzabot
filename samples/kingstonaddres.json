@@ -1,0 +1,59 @@
+{
+  "Order": {
+    "Address": {
+      "Street": "25 Union St",
+      "AddressLine2": "GOODWIN HALL #10",
+      "City": "KINGSTON",
+      "Region": "ON",
+      "PostalCode": "K7L2N8",
+      "Type": "Campus",
+      "BuildingID": "2934",
+      "CampusID": "264",
+      "AddressLine3": "QUEEN'S UNIVERSITY - MAIN CAMPUS",
+      "StreetName": "UNION ST",
+      "UnitNumber": "210",
+      "OrganizationName": "210 GOODWIN HALL #10 QUEEN'S UNIVERSITY - MAIN CAMPUS"
+    },
+    "Coupons": [],
+    "CustomerID": "",
+    "Email": "",
+    "Extension": "",
+    "FirstName": "",
+    "LastName": "",
+    "LanguageCode": "en",
+    "OrderChannel": "OLO",
+    "OrderID": "jf62CahPlZTVPRBBESC2",
+    "OrderMethod": "Web",
+    "OrderTaker": null,
+    "Payments": [],
+    "Phone": "",
+    "PhonePrefix": "",
+    "Products": [
+      {
+        "Code": "14SCREEN",
+        "Qty": 1,
+        "ID": 1,
+        "isNew": false,
+        "Options": {
+          "C": {
+            "1/1": "1"
+          },
+          "P": {
+            "1/1": "1"
+          },
+          "X": {
+            "1/1": "1"
+          }
+        }
+      }
+    ],
+    "ServiceMethod": "Delivery",
+    "SourceOrganizationURI": "order.dominos.com",
+    "StoreID": "10310",
+    "Tags": {},
+    "Version": "1.0",
+    "NoCombine": true,
+    "Partners": {},
+    "OrderInfoCollection": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "2a4a6ca7-01e0-47a5-b5d1-c09f396c3d9e",
+  "timestamp": "2018-02-02T02:46:12.739Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "how much is a large cheese pizza?",
+    "action": "checkPrice",
+    "actionIncomplete": false,
+    "parameters": {
+      "size": "Large",
+      "toppings": [
+        "Cheese"
+      ],
+      "crust": ""
+    },
+    "contexts": [
+      {
+        "name": "requestprice-followup",
+        "parameters": {
+          "size.original": "large",
+          "toppings.original": "cheese",
+          "size": "Large",
+          "crust.original": "",
+          "toppings": [
+            "Cheese"
+          ],
+          "crust": ""
+        },
+        "lifespan": 2
+      }
+    ],
+    "metadata": {
+      "intentId": "94cfe480-49f9-4459-bd9d-4cb9262ee0d8",
+      "webhookUsed": "false",
+      "webhookForSlotFillingUsed": "false",
+      "intentName": "RequestPrice"
+    },
+    "fulfillment": {
+      "speech": "Calculating the price now!",
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Calculating the price now!"
+        }
+      ]
+    },
+    "score": 0.6499999761581421
+  },
+  "status": {
+    "code": 200,
+    "errorType": "success",
+    "webhookTimedOut": false
+  },
+  "sessionId": "a5069b9d-831d-4bf2-8992-92eef00ec661"
+}

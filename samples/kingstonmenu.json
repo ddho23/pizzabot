@@ -1,0 +1,6924 @@
+{
+  "Misc": {
+    "Status": 0,
+    "StoreID": "10310",
+    "BusinessDate": "2018-01-30",
+    "StoreAsOfTime": "2018-01-30 15:49:35",
+    "LanguageCode": "en",
+    "Version": "2.061",
+    "ExpiresOn": ""
+  },
+  "Categorization": {
+    "Food": {
+      "Categories": [
+        {
+          "Categories": [
+            {
+              "Categories": [],
+              "Code": "BuildYourOwn",
+              "Description": "",
+              "Products": [
+                "S_PIZZA"
+              ],
+              "Name": "Build Your Own"
+            },
+            {
+              "Categories": [],
+              "Code": "Artisan",
+              "Description": "",
+              "Products": [],
+              "Name": ""
+            },
+            {
+              "Categories": [],
+              "Code": "Legend",
+              "Description": "",
+              "Products": [],
+              "Name": "Domino's American Legends®"
+            },
+            {
+              "Categories": [],
+              "Code": "Feast",
+              "Description": "",
+              "Products": [
+                "S_PIZVX",
+                "S_PIZZZ",
+                "S_BRKLYN",
+                "S_PIZBQ",
+                "S_PIZCA",
+                "S_PIZDX",
+                "S_PIZHX",
+                "S_PIZMX",
+                "S_PIZPH",
+                "S_PIZPX",
+                "S_PIZCBA",
+                "S_PIZCBR",
+                "S_PIZPV",
+                "S_PIZSF"
+              ],
+              "Name": "Feast Pizzas"
+            }
+          ],
+          "Code": "Pizza",
+          "Description": "",
+          "Products": [],
+          "Name": "Pizza"
+        },
+        {
+          "Categories": [
+            {
+              "Categories": [],
+              "Code": "Slice",
+              "Description": "",
+              "Products": [],
+              "Name": "Domino's Sandwich Slice™"
+            },
+            {
+              "Categories": [],
+              "Code": "Sandwich",
+              "Description": "",
+              "Products": [],
+              "Name": ""
+            },
+            {
+              "Categories": [],
+              "Code": "Hoagie",
+              "Description": "",
+              "Products": [],
+              "Name": "Hoagies"
+            }
+          ],
+          "Code": "Sandwich",
+          "Description": "",
+          "Products": [],
+          "Name": ""
+        },
+        {
+          "Categories": [],
+          "Code": "Pasta",
+          "Description": "",
+          "Products": [
+            "S_ALFR",
+            "S_MARIN",
+            "S_CARB",
+            "S_PRIM",
+            "S_BUILD"
+          ],
+          "Name": "Pastas"
+        },
+        {
+          "Categories": [],
+          "Code": "Wings",
+          "Description": "",
+          "Products": [
+            "S_SCCBT",
+            "S_SCCHB",
+            "S_SCSJP",
+            "S_SCSBBQ",
+            "S_BONELESS",
+            "S_BONEIN"
+          ],
+          "Name": "Chicken"
+        },
+        {
+          "Categories": [],
+          "Code": "Bread",
+          "Description": "",
+          "Products": [
+            "F_CHEBRD",
+            "F_TWISTBRD",
+            "F_CINBRD",
+            "F_GARFINGER",
+            "F_BGARFINGER",
+            "F_PARM"
+          ],
+          "Name": "Breads"
+        },
+        {
+          "Categories": [],
+          "Code": "GSalad",
+          "Description": "",
+          "Products": [],
+          "Name": ""
+        },
+        {
+          "Categories": [],
+          "Code": "Chips",
+          "Description": "",
+          "Products": [],
+          "Name": ""
+        },
+        {
+          "Categories": [],
+          "Code": "Drinks",
+          "Description": "",
+          "Products": [
+            "F_COKE",
+            "F_ZERO",
+            "F_DIET",
+            "F_SPRITE",
+            "F_GingerAl",
+            "F_NTEACOOL",
+            "F_WATER",
+            "F_FANTA",
+            "F_AANDW"
+          ],
+          "Name": "Drinks"
+        },
+        {
+          "Categories": [],
+          "Code": "Dessert",
+          "Description": "",
+          "Products": [
+            "F_MRBRWNE",
+            "F_LAVA"
+          ],
+          "Name": "Desserts"
+        },
+        {
+          "Categories": [],
+          "Code": "Sides",
+          "Description": "",
+          "Products": [
+            "F_SIDCHB",
+            "F_HOTDCUP",
+            "F_SIDGAR",
+            "F_SIDICE",
+            "F_SIDMAR",
+            "F_SIDRAN",
+            "F_CCOUPON",
+            "F_BBQCUP"
+          ],
+          "Name": "Extras"
+        }
+      ],
+      "Code": "Food",
+      "Description": "Food Items",
+      "Products": [],
+      "Name": "Food"
+    },
+    "Coupons": {
+      "Categories": [
+        {
+          "Categories": [],
+          "Code": "Feeds1To2",
+          "Description": "",
+          "Products": [
+            "3102",
+            "4201",
+            "4040",
+            "3206",
+            "94201",
+            "4006",
+            "3203",
+            "4194"
+          ],
+          "Name": "Feeds 1-2"
+        },
+        {
+          "Categories": [],
+          "Code": "Feeds3To5",
+          "Description": "",
+          "Products": [
+            "3275",
+            "8730",
+            "3240",
+            "2415",
+            "2375"
+          ],
+          "Name": "Feeds 3-5"
+        },
+        {
+          "Categories": [],
+          "Code": "Feeds6Plus",
+          "Description": "",
+          "Products": [
+            "4276",
+            "4240",
+            "3415",
+            "4415",
+            "5415",
+            "4377",
+            "4374"
+          ],
+          "Name": "Feeds 6+"
+        },
+        {
+          "Categories": [],
+          "Code": "LunchOffers",
+          "Description": "",
+          "Products": [],
+          "Name": ""
+        },
+        {
+          "Categories": [],
+          "Code": "All",
+          "Description": "",
+          "Products": [
+            "3275",
+            "3102",
+            "8730",
+            "8562",
+            "4201",
+            "4040",
+            "8156",
+            "3206",
+            "94201",
+            "98562",
+            "4006",
+            "3240",
+            "2415",
+            "4276",
+            "4240",
+            "3415",
+            "4415",
+            "5415",
+            "3203",
+            "4194",
+            "2375",
+            "4377",
+            "4374",
+            "8375"
+          ],
+          "Name": "See All"
+        },
+        {
+          "Categories": [],
+          "Code": "AllStoreCoupons",
+          "Description": "",
+          "Products": [
+            "3275",
+            "3102",
+            "8730",
+            "8562",
+            "4201",
+            "4040",
+            "8156",
+            "3206",
+            "94201",
+            "98562",
+            "4006",
+            "3240",
+            "2415",
+            "4276",
+            "4240",
+            "3415",
+            "4415",
+            "5415",
+            "3203",
+            "4194",
+            "2375",
+            "4377",
+            "4374",
+            "8375"
+          ],
+          "Name": "All Available Coupons"
+        }
+      ],
+      "Code": "Coupons",
+      "Description": "Coupon Items",
+      "Products": [],
+      "Name": "Coupons"
+    },
+    "PreconfiguredProducts": {
+      "Categories": [
+        {
+          "Categories": [
+            {
+              "Categories": [],
+              "Code": "GroupOrderingPizza",
+              "Description": "Pizza",
+              "Products": [
+                "14SCREEN",
+                "P_14SCREEN",
+                "S_14SCREEN",
+                "PS_14SCREEN",
+                "HN_14SCREEN",
+                "PM_14SCREEN",
+                "P12IPAZA",
+                "P_P12IPAZA",
+                "P_P10IGFZA",
+                "14SCEXTRAV"
+              ],
+              "Name": "Pizza"
+            },
+            {
+              "Categories": [],
+              "Code": "GroupOrderingChicken",
+              "Description": "Chicken",
+              "Products": [
+                "10WINGHOT",
+                "10WINGBBQ"
+              ],
+              "Name": "Chicken"
+            },
+            {
+              "Categories": [],
+              "Code": "GroupOrderingBread",
+              "Description": "Breads",
+              "Products": [
+                "16PARMBITE"
+              ],
+              "Name": "Breads"
+            },
+            {
+              "Categories": [],
+              "Code": "GroupOrderingDessert",
+              "Description": "Desserts",
+              "Products": [
+                "CINNASTIX8"
+              ],
+              "Name": "Desserts"
+            },
+            {
+              "Categories": [],
+              "Code": "GroupOrderingDrink",
+              "Description": "Drinks",
+              "Products": [
+                "2LCOKE",
+                "2LDCOKE"
+              ],
+              "Name": "Drinks"
+            }
+          ],
+          "Code": "GroupOrdering",
+          "Description": "Group Ordering",
+          "Products": [],
+          "Name": "Group Ordering"
+        },
+        {
+          "Categories": [
+            {
+              "Categories": [],
+              "Code": "PopularItemsPizza",
+              "Description": "Pizza",
+              "Products": [
+                "XC_14SCREEN",
+                "PXC_14SCREEN",
+                "HNXC_12SCREEN",
+                "MPXC_12SCREEN"
+              ],
+              "Name": "Pizza"
+            },
+            {
+              "Categories": [],
+              "Code": "PopularItemsSandwichesSidesDesserts",
+              "Description": "Sandwiches Sides Desserts",
+              "Products": [
+                "B1PCLAVA"
+              ],
+              "Name": "Sandwiches Sides Desserts"
+            }
+          ],
+          "Code": "PopularItems",
+          "Description": "Popular Items",
+          "Products": [],
+          "Name": "Popular Items"
+        }
+      ],
+      "Code": "PreconfiguredProducts",
+      "Description": "Preconfigured Products",
+      "Products": [],
+      "Name": "Preconfigured Products"
+    }
+  },
+  "Coupons": {
+    "2375": {
+      "Code": "2375",
+      "ImageCode": "2S3T,CB,LTR",
+      "Description": "",
+      "Name": "2 Small 3 Topping Pizzas, Domino's Pizza Cheesy Bread and a 2-Litre of Coca-Cola®",
+      "Price": "22.99",
+      "Tags": {
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": true,
+      "Bundle": true
+    },
+    "2415": {
+      "Code": "2415",
+      "ImageCode": "3S3T",
+      "Description": "",
+      "Name": "3 Small 3 Topping Pizzas",
+      "Price": "26.99",
+      "Tags": {
+        "EffectiveOn": "2015-09-01",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": true,
+      "Bundle": false
+    },
+    "3102": {
+      "Code": "3102",
+      "ImageCode": "1M2T,10W",
+      "Description": "",
+      "Name": "1 Medium 2 Topping Pizza and 10 Wings",
+      "Price": "18.99",
+      "Tags": {
+        "EffectiveOn": "2009-06-17",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": true,
+      "Bundle": true
+    },
+    "3203": {
+      "Code": "3203",
+      "ImageCode": "1M2TPN",
+      "Description": "",
+      "Name": "1 Medium 2 Topping Pan Pizza",
+      "Price": "12.99",
+      "Tags": {
+        "EffectiveOn": "2016-01-25",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": false,
+      "Bundle": true
+    },
+    "3206": {
+      "Code": "3206",
+      "ImageCode": "1M2TPN,LTR",
+      "Description": "",
+      "Name": "1 Medium 2-Topping Handmade Pan Pizza and a 2-Litre Coca-Cola® product",
+      "Price": "10.99",
+      "Tags": {
+        "EffectiveOn": "2017-11-11",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": false,
+      "Bundle": true
+    },
+    "3240": {
+      "Code": "3240",
+      "ImageCode": "2M2T,LTR",
+      "Description": "",
+      "Name": "2 Medium 2 Topping Pizzas and a 2-Litre of Coca-Cola®",
+      "Price": "19.99",
+      "Tags": {
+        "EffectiveOn": "2012-04-05",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": true,
+      "Bundle": true
+    },
+    "3275": {
+      "Code": "3275",
+      "ImageCode": "2M3T,CB",
+      "Description": "",
+      "Name": "2 Medium 3 Topping Pizzas and Domino's Pizza Cheesy Bread",
+      "Price": "19.99",
+      "Tags": {
+        "EffectiveOn": "2016-11-21",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ],
+        "Featured": true
+      },
+      "Local": false,
+      "Bundle": true
+    },
+    "3415": {
+      "Code": "3415",
+      "ImageCode": "3M3T",
+      "Description": "",
+      "Name": "3 Medium 3 Topping Pizzas",
+      "Price": "31.99",
+      "Tags": {
+        "EffectiveOn": "2013-03-04",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": false,
+      "Bundle": false
+    },
+    "4006": {
+      "Code": "4006",
+      "ImageCode": "1LBK-P",
+      "Description": "",
+      "Name": "1 Large Brooklyn Style Pepperoni Pizza",
+      "Price": "12.99",
+      "Tags": {
+        "EffectiveOn": "2012-04-04",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": true,
+      "Bundle": true
+    },
+    "4040": {
+      "Code": "4040",
+      "ImageCode": "1L2T,LTR",
+      "Description": "",
+      "Name": "1 Large 2 Topping Pizza and a 2-Litre of Coca-Cola®",
+      "Price": "10.99",
+      "Tags": {
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ],
+        "ServingSize": "1/8 pizza & 355ml",
+        "Cals": "254-531"
+      },
+      "Local": false,
+      "Bundle": true
+    },
+    "4194": {
+      "Code": "4194",
+      "ImageCode": "1LBK,CB,LTR",
+      "Description": "",
+      "Name": "1 Large Brooklyn Pizza, an Order of Domino's Pizza Cheesy Bread and a 2-Litre of Coca-Cola®",
+      "Price": "21.99",
+      "Tags": {
+        "EffectiveOn": "2013-03-04",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": true,
+      "Bundle": true
+    },
+    "4201": {
+      "Code": "4201",
+      "ImageCode": "1L4T",
+      "Description": "",
+      "Name": "1 Large 4 Topping Pizza",
+      "Price": "11.99",
+      "Tags": {
+        "EffectiveOn": "2018-01-22",
+        "ExpiresOn": "2018-04-02",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ],
+        "Combine": "Complementary"
+      },
+      "Local": false,
+      "Bundle": true
+    },
+    "4240": {
+      "Code": "4240",
+      "ImageCode": "2L2T,LTR",
+      "Description": "",
+      "Name": "2 Large 2 Topping Pizzas and a 2-Litre of Coca-Cola®",
+      "Price": "25.99",
+      "Tags": {
+        "EffectiveOn": "2012-04-05",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": true,
+      "Bundle": true
+    },
+    "4276": {
+      "Code": "4276",
+      "ImageCode": "2L3T,CB",
+      "Description": "",
+      "Name": "2 Large 3 Topping pizzas and Domino's Pizza Cheesy Bread",
+      "Price": "25.99",
+      "Tags": {
+        "EffectiveOn": "2013-11-23",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": false,
+      "Bundle": true
+    },
+    "4374": {
+      "Code": "4374",
+      "ImageCode": "2LFT,10W,B,LTR,FT",
+      "Description": "",
+      "Name": "2 Large Feast Pizzas, choose from Pepperoni, Deluxe, Hawaiian or Special Veggie, with 10 Wings, any Bread side (May not include Garlic Finger products) and a 2-Litre of Coca-Cola®",
+      "Price": "41.99",
+      "Tags": {
+        "EffectiveOn": "2010-06-03",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": true,
+      "Bundle": true
+    },
+    "4377": {
+      "Code": "4377",
+      "ImageCode": "2L3T,CB,LTR",
+      "Description": "",
+      "Name": "2 Large 3 Topping Pizzas, Domino's Pizza Cheesy Bread and a 2-Litre of Coca-Cola®",
+      "Price": "29.99",
+      "Tags": {
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": true,
+      "Bundle": true
+    },
+    "4415": {
+      "Code": "4415",
+      "ImageCode": "3L3T",
+      "Description": "",
+      "Name": "3 Large 3 Topping Pizzas",
+      "Price": "36.99",
+      "Tags": {
+        "EffectiveOn": "2011-09-13",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": false,
+      "Bundle": false
+    },
+    "5415": {
+      "Code": "5415",
+      "ImageCode": "3XL3T",
+      "Description": "",
+      "Name": "3 X-Large 3 Topping Pizzas",
+      "Price": "41.99",
+      "Tags": {
+        "EffectiveOn": "2010-03-09",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ]
+      },
+      "Local": false,
+      "Bundle": false
+    },
+    "8156": {
+      "Code": "8156",
+      "ImageCode": "ADD,2-591",
+      "Description": "",
+      "Name": "Add 2 500 ml Coca-Cola® products for $3.49",
+      "Price": "",
+      "Tags": {
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ],
+        "Combine": "Complementary"
+      },
+      "Local": false,
+      "Bundle": false
+    },
+    "8375": {
+      "Code": "8375",
+      "ImageCode": "2LC",
+      "Description": "",
+      "Name": "2 Lava Crunch Cakes",
+      "Price": "3.98",
+      "Tags": {
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ],
+        "Combine": "Complementary"
+      },
+      "Local": false,
+      "Bundle": true
+    },
+    "8562": {
+      "Code": "8562",
+      "ImageCode": "ADD,CB,LTR",
+      "Description": "",
+      "Name": "Add a Domino's Pizza Cheesy Bread and a 2-Litre of Coca-Cola®",
+      "Price": "7.99",
+      "Tags": {
+        "EffectiveOn": "2017-08-28",
+        "ExpiresOn": "2018-04-02",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ],
+        "Combine": "Complementary"
+      },
+      "Local": false,
+      "Bundle": true
+    },
+    "8730": {
+      "Code": "8730",
+      "ImageCode": "ANY2",
+      "Description": "",
+      "Name": "Choose any 2 or more: Medium 2-Topping Hand Tossed Pizza, Specialty Chicken, 8-piece Boneless Chicken, 10-piece Chicken Wings, 2 6-piece Marbled Cookie Brownies, or Pasta. Price is per item.",
+      "Price": "7.99",
+      "Tags": {
+        "EffectiveOn": "2016-11-21",
+        "ExpiresOn": "2018-04-02",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ],
+        "Combine": "Complementary"
+      },
+      "Local": false,
+      "Bundle": false
+    },
+    "94201": {
+      "Code": "94201",
+      "ImageCode": "1L4T",
+      "Description": "",
+      "Name": "1 Large 4 Topping Pizza",
+      "Price": "11.99",
+      "Tags": {
+        "EffectiveOn": "2017-01-30",
+        "ExpiresOn": "2018-02-01",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ],
+        "ServingSize": "1/8 pizza",
+        "Cals": "242-370"
+      },
+      "Local": false,
+      "Bundle": true
+    },
+    "98562": {
+      "Code": "98562",
+      "ImageCode": "ADD,CB,LTR",
+      "Description": "",
+      "Name": "Add a Domino's Pizza Cheesy Bread and a 2-Litre of Coca-Cola®",
+      "Price": "6.99",
+      "Tags": {
+        "EffectiveOn": "2017-02-13",
+        "ExpiresOn": "2018-02-01",
+        "ValidServiceMethods": [
+          "Carryout",
+          "Delivery"
+        ],
+        "Combine": "Complementary"
+      },
+      "Local": false,
+      "Bundle": true
+    }
+  },
+  "Flavors": {
+    "Pasta": {
+      "PASTA": {
+        "Code": "PASTA",
+        "Description": "Pasta served in a dish and then baked to perfection.",
+        "Local": false,
+        "Name": "Pasta in a Dish",
+        "SortSeq": "01"
+      }
+    },
+    "Pizza": {
+      "HANDTOSS": {
+        "Code": "HANDTOSS",
+        "Description": "The traditional, hand-engineered crust that started it all.",
+        "Local": false,
+        "Name": "Original Hand Tossed",
+        "SortSeq": "01"
+      },
+      "THIN": {
+        "Code": "THIN",
+        "Description": "Thin and crispy, seasoned with oregano and cut in squares, Chicago style.",
+        "Local": false,
+        "Name": "Crunchy Thin Crust",
+        "SortSeq": "04"
+      },
+      "NPAN": {
+        "Code": "NPAN",
+        "Description": "Crispy golden crust and a buttery taste with toppings all the way to the edge.",
+        "Local": false,
+        "Name": "Handmade Pan",
+        "SortSeq": "05"
+      },
+      "GLUTENF": {
+        "Code": "GLUTENF",
+        "Description": "Domino's pizza made with a Gluten Free Crust.",
+        "Local": false,
+        "Name": "Gluten Free Crust",
+        "SortSeq": "06"
+      }
+    },
+    "Wings": {
+      "BBQWINGS": {
+        "Code": "BBQWINGS",
+        "Description": "Big, juicy Chicken wings sauced with BBQ Sauce.",
+        "Local": false,
+        "Name": "Wings - BBQ",
+        "SortSeq": "01"
+      },
+      "HNYGAR": {
+        "Code": "HNYGAR",
+        "Description": "Big, juicy Chicken wings sauced with Honey Garlic Sauce.",
+        "Local": false,
+        "Name": "Wings - Honey Garlic",
+        "SortSeq": "03"
+      },
+      "HOTWINGS": {
+        "Code": "HOTWINGS",
+        "Description": "Big, juicy Chicken wings sauced with Hot Wing Sauce.",
+        "Local": false,
+        "Name": "Wings - Hot",
+        "SortSeq": "05"
+      },
+      "SMANG": {
+        "Code": "SMANG",
+        "Description": "A perfect blend of sweet and spicy, Sweet Mango Habanero sauce coats these big and juicy traditional wings.",
+        "Local": false,
+        "Name": "Wings - Sweet Mango Habanero",
+        "SortSeq": "06"
+      },
+      "BCHICK": {
+        "Code": "BCHICK",
+        "Description": "Our boneless chicken is lightly breaded with savoury herbs, made with 100% white breast meat. Comes with our signature BBQ sauce for dipping.",
+        "Local": false,
+        "Name": "Boneless Chicken",
+        "SortSeq": "08"
+      },
+      "BACTOM": {
+        "Code": "BACTOM",
+        "Description": "Tender bites of lightly breaded, 100% whole breast white meat chicken, topped with garlic parmesan white sauce, a blend of cheese made with mozzarella and cheddar, crispy bacon and tomato.",
+        "Local": false,
+        "Name": "Specialty Chicken – Crispy Bacon & Tomato",
+        "SortSeq": "17"
+      },
+      "HOTBUFF": {
+        "Code": "HOTBUFF",
+        "Description": "Tender bites of lightly breaded, 100% whole breast white meat chicken, topped with classic hot buffalo sauce, ranch, a blend of cheese made with mozzarella and cheddar, and feta.",
+        "Local": false,
+        "Name": "Specialty Chicken – Classic Hot Buffalo",
+        "SortSeq": "18"
+      },
+      "SPCYJP": {
+        "Code": "SPCYJP",
+        "Description": "Tender bites of lightly breaded, 100% whole breast white meat chicken, topped with sweet and spicy mango-habanero sauce, a blend of cheese made with mozzarella and cheddar, jalapeno and pineapple.",
+        "Local": false,
+        "Name": "Specialty Chicken – Spicy Jalapeno - Pineapple",
+        "SortSeq": "19"
+      },
+      "BBQBAC": {
+        "Code": "BBQBAC",
+        "Description": "Tender bites of lightly breaded, 100% whole breast white meat chicken, topped with sweet and smoky BBQ sauce, a blend of cheese made with mozzarella and cheddar, and crispy bacon.",
+        "Local": false,
+        "Name": "Specialty Chicken – Sweet BBQ Bacon",
+        "SortSeq": "20"
+      }
+    }
+  },
+  "Products": {
+    "F_TWISTBRD": {
+      "AvailableToppings": "",
+      "AvailableSides": "SIDGAR,SIDMAR,SIDRAN",
+      "Code": "F_TWISTBRD",
+      "DefaultToppings": "",
+      "DefaultSides": "SIDMAR=1",
+      "Description": "Breadsticks baked to a golden brown.  With marinara sauce for dipping.",
+      "ImageCode": "F_TWISTBRD",
+      "Local": false,
+      "Name": "Breadsticks",
+      "ProductType": "Bread",
+      "Tags": {
+        "ServingSize": "1/8 Order",
+        "Cals": "109"
+      },
+      "Variants": [
+        "8BRDSTIX"
+      ]
+    },
+    "F_CHEBRD": {
+      "AvailableToppings": "",
+      "AvailableSides": "SIDGAR,SIDMAR,SIDRAN",
+      "Code": "F_CHEBRD",
+      "DefaultToppings": "",
+      "DefaultSides": "SIDMAR=1",
+      "Description": "A blend of cheddar and mozzarella cheeses baked to perfection. With marinara sauce.",
+      "ImageCode": "F_CHEBRD",
+      "Local": false,
+      "Name": "Domino's Pizza Cheesy Bread",
+      "ProductType": "Bread",
+      "Tags": {
+        "ServingSize": "1/8 Order",
+        "Cals": "119"
+      },
+      "Variants": [
+        "CHSBREAD"
+      ]
+    },
+    "F_BGARFINGER": {
+      "AvailableToppings": "",
+      "AvailableSides": "SIDMAR",
+      "Code": "F_BGARFINGER",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Slices of our hand tossed dough with savory garlic butter, topped with premium mozzarella and crumbled maple bacon.",
+      "ImageCode": "F_BGARFINGER",
+      "Local": true,
+      "Name": "Bacon Garlic Fingers",
+      "ProductType": "Bread",
+      "Tags": {},
+      "Variants": [
+        "10BGARFI",
+        "12BGARFI",
+        "14BGARFI",
+        "16BGARFI"
+      ]
+    },
+    "F_GARFINGER": {
+      "AvailableToppings": "",
+      "AvailableSides": "SIDMAR",
+      "Code": "F_GARFINGER",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Our fresh pizza dough is hand stretched and brushed with garlic spread, topped with premium mozzarella and baked to perfection.",
+      "ImageCode": "F_GARFINGER",
+      "Local": false,
+      "Name": "Domino's Pizza Cheesy Garlic Fingers",
+      "ProductType": "Bread",
+      "Tags": {},
+      "Variants": [
+        "10GARFIN",
+        "12GARFIN",
+        "14GARFIN",
+        "16GARFIN"
+      ]
+    },
+    "F_CINBRD": {
+      "AvailableToppings": "",
+      "AvailableSides": "SIDICE",
+      "Code": "F_CINBRD",
+      "DefaultToppings": "",
+      "DefaultSides": "SIDICE=1",
+      "Description": "Sprinkled with cinnamon and sugar, then baked to perfection. Served with sweet icing.",
+      "ImageCode": "F_CINBRD",
+      "Local": false,
+      "Name": "Cinna Stix®",
+      "ProductType": "Bread",
+      "Tags": {
+        "ServingSize": "1/8 Order",
+        "Cals": "118"
+      },
+      "Variants": [
+        "CINNASTIX8"
+      ]
+    },
+    "F_PARM": {
+      "AvailableToppings": "",
+      "AvailableSides": "SIDGAR,SIDMAR,SIDRAN",
+      "Code": "F_PARM",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Oven baked, bite-size breadsticks lightly sprinkled with Parmesan - Asiago cheese & seasoned with garlic and more Parmesan. Perfectly delicious for sharing!  Add Marinara or your favorite dipping cup for an additional charge.",
+      "ImageCode": "F_PARM",
+      "Local": false,
+      "Name": "Parmesan Bites",
+      "ProductType": "Bread",
+      "Tags": {},
+      "Variants": [
+        "16PARMBITE"
+      ]
+    },
+    "F_MRBRWNE": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_MRBRWNE",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Satisfy your sweet tooth! Taste the decadent blend of gooey milk chocolate chunk cookie and delicious fudge brownie. Oven-baked to perfection and cut into 6 pieces - this dessert is perfect to share with the whole group.",
+      "ImageCode": "F_MRBRWNE",
+      "Local": false,
+      "Name": "Marbled Cookie Brownie",
+      "ProductType": "Dessert",
+      "Tags": {},
+      "Variants": [
+        "6MARBRWNE",
+        "12MARBRWNE"
+      ]
+    },
+    "F_LAVA": {
+      "AvailableToppings": "",
+      "AvailableSides": "SIDICE",
+      "Code": "F_LAVA",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Oven baked chocolate cakes, crunchy on the outside with molten chocolate on the inside.",
+      "ImageCode": "F_LAVA",
+      "Local": false,
+      "Name": "Chocolate Lava Crunch Cake",
+      "ProductType": "Dessert",
+      "Tags": {},
+      "Variants": [
+        "B1PCLAVA",
+        "B2PCLAVA"
+      ]
+    },
+    "F_COKE": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_COKE",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "The authentic cola sensation that is a refreshing part of sharing life's enjoyable moments",
+      "ImageCode": "F_COKE",
+      "Local": false,
+      "Name": "Coke®",
+      "ProductType": "Drinks",
+      "Tags": {
+        "ServingSize": "355 mL",
+        "Cals": "140"
+      },
+      "Variants": [
+        "500COKE",
+        "2LCOKE"
+      ]
+    },
+    "F_ZERO": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_ZERO",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Real Coca-Cola® taste with zero calories.",
+      "ImageCode": "F_ZERO",
+      "Local": false,
+      "Name": "Coke Zero™",
+      "ProductType": "Drinks",
+      "Tags": {
+        "ServingSize": "355 mL",
+        "Cals": "0"
+      },
+      "Variants": [
+        "500CZERO",
+        "D2LBZRO"
+      ]
+    },
+    "F_DIET": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_DIET",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Beautifully balanced adult cola taste in a no calorie beverage",
+      "ImageCode": "F_DIET",
+      "Local": false,
+      "Name": "Diet Coke®",
+      "ProductType": "Drinks",
+      "Tags": {
+        "ServingSize": "355 mL",
+        "Cals": "0"
+      },
+      "Variants": [
+        "500DIETC",
+        "2LDCOKE",
+        "12CDCOKE"
+      ]
+    },
+    "F_SPRITE": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_SPRITE",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Unique Lymon (lemon-lime) flavor, clear, clean and crisp with no caffeine.",
+      "ImageCode": "F_SPRITE",
+      "Local": false,
+      "Name": "Sprite",
+      "ProductType": "Drinks",
+      "Tags": {
+        "ServingSize": "355 mL",
+        "Cals": "140"
+      },
+      "Variants": [
+        "12CSPRITE"
+      ]
+    },
+    "F_GingerAl": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_GingerAl",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "A delicious carbonated drink made with real ginger.",
+      "ImageCode": "F_GingerAl",
+      "Local": false,
+      "Name": "Ginger Ale",
+      "ProductType": "Drinks",
+      "Tags": {
+        "ServingSize": "355 mL",
+        "Cals": "100"
+      },
+      "Variants": [
+        "500GINGER"
+      ]
+    },
+    "F_NTEACOOL": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_NTEACOOL",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Nestea COOL offers the ultimate in cold, smooth refreshment. It's great tea taste enables you to keep cool in hot situations",
+      "ImageCode": "F_NTEACOOL",
+      "Local": true,
+      "Name": "Nestea Cool",
+      "ProductType": "Drinks",
+      "Tags": {
+        "ServingSize": "550 mL",
+        "Cals": "170"
+      },
+      "Variants": [
+        "500CNESTEA",
+        "2LCNESTEA"
+      ]
+    },
+    "F_WATER": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_WATER",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Fresh, crisp tasting water.",
+      "ImageCode": "F_WATER",
+      "Local": false,
+      "Name": "Water",
+      "ProductType": "Drinks",
+      "Tags": {
+        "ServingSize": "355 mL",
+        "Cals": "0"
+      },
+      "Variants": [
+        "591WATER"
+      ]
+    },
+    "F_FANTA": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_FANTA",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "A refreshing carbonated soft drink made with Real Fruit.",
+      "ImageCode": "F_FANTA",
+      "Local": false,
+      "Name": "Fanta",
+      "ProductType": "Drinks",
+      "Tags": {
+        "ServingSize": "355 mL",
+        "Cals": "100"
+      },
+      "Variants": [
+        "473FANTA"
+      ]
+    },
+    "F_AANDW": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_AANDW",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "A&W Root Beer is known for its smooth creamy taste and is caffeine free.",
+      "ImageCode": "F_AANDW",
+      "Local": false,
+      "Name": "A&W Root Beer",
+      "ProductType": "Drinks",
+      "Tags": {
+        "ServingSize": "355 mL",
+        "Cals": "175"
+      },
+      "Variants": [
+        "500AANDW",
+        "2LAANDW"
+      ]
+    },
+    "S_BUILD": {
+      "AvailableToppings": "Xf=0:0.5:1:1.5,P,Xp,S,B,H,K,D,A,E,Fe,Cp,G,M,N,O,R,T,V,Z",
+      "AvailableSides": "",
+      "Code": "S_BUILD",
+      "DefaultToppings": "Xf=1",
+      "DefaultSides": "",
+      "Description": "Choose a sauce (Marinara or Alfredo) and up to 3 ingredients from more than a dozen meat or vegetable toppings. Your penne pasta and ingredients are tossed and baked to perfection.",
+      "ImageCode": "S_BUILD",
+      "Local": false,
+      "Name": "Build your Own Pasta",
+      "ProductType": "Pasta",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5"
+        ],
+        "MaxOptionQty": "3"
+      },
+      "Variants": [
+        "PINPASBD"
+      ]
+    },
+    "S_ALFR": {
+      "AvailableToppings": "Xf=0.5:1,D",
+      "AvailableSides": "",
+      "Code": "S_ALFR",
+      "DefaultToppings": "Xf=1,D=1",
+      "DefaultSides": "",
+      "Description": "Grilled 100% all white meat chicken and Alfredo sauce baked to a creamy goodness with penne pasta.",
+      "ImageCode": "S_ALFR",
+      "Local": false,
+      "Name": "Chicken Alfredo",
+      "ProductType": "Pasta",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5"
+        ],
+        "MaxOptionQty": "3"
+      },
+      "Variants": [
+        "PINPASCA"
+      ]
+    },
+    "S_CARB": {
+      "AvailableToppings": "Xf=0.5:1,K,D,M,O",
+      "AvailableSides": "",
+      "Code": "S_CARB",
+      "DefaultToppings": "Xf=1,K=1,D=1,M=1,O=1",
+      "DefaultSides": "",
+      "Description": "Grilled 100% all white meat chicken, bacon, onions and mushrooms mixed with penne pasta and baked to perfection with creamy Alfredo sauce.",
+      "ImageCode": "S_CARB",
+      "Local": false,
+      "Name": "Chicken Carbonara",
+      "ProductType": "Pasta",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5"
+        ],
+        "MaxOptionQty": "4"
+      },
+      "Variants": [
+        "PINPASCC"
+      ]
+    },
+    "S_MARIN": {
+      "AvailableToppings": "S,Cp",
+      "AvailableSides": "",
+      "Code": "S_MARIN",
+      "DefaultToppings": "S=1,Cp=1",
+      "DefaultSides": "",
+      "Description": "Penne pasta baked in a zesty marinara sauce with Italian sausage, a blend of Italian seasonings and Provolone cheese.",
+      "ImageCode": "S_MARIN",
+      "Local": false,
+      "Name": "Italian Sausage Marinara",
+      "ProductType": "Pasta",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5"
+        ],
+        "MaxOptionQty": "3"
+      },
+      "Variants": [
+        "PINPASMM"
+      ]
+    },
+    "S_PRIM": {
+      "AvailableToppings": "Xf=0.5:1,G,M,O,T",
+      "AvailableSides": "",
+      "Code": "S_PRIM",
+      "DefaultToppings": "Xf=1,G=1,M=1,O=1,T=1",
+      "DefaultSides": "",
+      "Description": "Fresh tomatoes, green peppers, mushrooms and onions are mixed and baked to perfection with creamy Alfredo sauce.",
+      "ImageCode": "S_PRIM",
+      "Local": false,
+      "Name": "Pasta Primavera",
+      "ProductType": "Pasta",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5"
+        ],
+        "MaxOptionQty": "4"
+      },
+      "Variants": [
+        "PINPASPP"
+      ]
+    },
+    "S_PIZCA": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf=0:0.5:1:1.5,Rd=0:0.5:1:1.5,Xw=0:0.5:1:1.5,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZCA",
+      "DefaultToppings": "X=1,C=2,P=1,M=1,K=1",
+      "DefaultSides": "",
+      "Description": "Loads of pepperoni, fresh mushrooms, and smoked bacon, topped with an extra layer of premium mozzarella cheese.",
+      "ImageCode": "S_PIZCA",
+      "Local": false,
+      "Name": "Canadian Pizza",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza",
+        "ServingSize": "1/6 pizza",
+        "Cals": "226 to 365 cal per slice"
+      },
+      "Variants": [
+        "10SCCAN",
+        "10TCAN",
+        "12SCCAN",
+        "12TCAN",
+        "14SCCAN",
+        "14TCAN",
+        "16SCCAN",
+        "P12PANCA",
+        "P10IGFCAN"
+      ]
+    },
+    "S_PIZDX": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf=0:0.5:1:1.5,Rd=0:0.5:1:1.5,Xw=0:0.5:1:1.5,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZDX",
+      "DefaultToppings": "X=1,C=1,P=1,O=1,G=1,M=1,S=1",
+      "DefaultSides": "",
+      "Description": "A mouth-watering combination of pepperoni, savory Italian sausage, fresh green peppers, fresh mushrooms, fresh onions and cheese.",
+      "ImageCode": "S_PIZDX",
+      "Local": false,
+      "Name": "Deluxe",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza",
+        "ServingSize": "1/6 pizza",
+        "Cals": "206 to 330 cal per slice"
+      },
+      "Variants": [
+        "10SCDELUX",
+        "10TDELUX",
+        "12SCDELUX",
+        "12TDELUX",
+        "14SCDELUX",
+        "14TDELUX",
+        "16SCDELUX",
+        "P12IPADX",
+        "P10IGFDX"
+      ]
+    },
+    "S_PIZZZ": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf=0:0.5:1:1.5,Rd=0:0.5:1:1.5,Xw=0:0.5:1:1.5,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZZZ",
+      "DefaultToppings": "X=1,C=2,P=1,H=1,O=1,G=1,M=1,S=1,B=1,R=1",
+      "DefaultSides": "",
+      "Description": "Loads of pepperoni, ham, savory Italian sausage, beef, fresh onions, fresh green peppers, fresh mushrooms and black olives with extra cheese.",
+      "ImageCode": "S_PIZZZ",
+      "Local": false,
+      "Name": "ExtravaganZZa",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza",
+        "ServingSize": "1/6 pizza",
+        "Cals": "246 to 401 cal per slice"
+      },
+      "Variants": [
+        "10SCEXTRAV",
+        "10TEXTRAV",
+        "12SCEXTRAV",
+        "12TEXTRAV",
+        "14SCEXTRAV",
+        "14TEXTRAV",
+        "16SCEXTRAV",
+        "P12IPAZZ",
+        "P10IGFZZ"
+      ]
+    },
+    "S_PIZHX": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf=0:0.5:1:1.5,Rd=0:0.5:1:1.5,Xw=0:0.5:1:1.5,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZHX",
+      "DefaultToppings": "X=1,C=2,H=1,N=1",
+      "DefaultSides": "",
+      "Description": "Succulent pineapple and slices of ham topped with an extra layer of cheese.",
+      "ImageCode": "S_PIZHX",
+      "Local": false,
+      "Name": "Hawaiian",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza",
+        "ServingSize": "1/6 pizza",
+        "Cals": "199 to 321 cal per slice"
+      },
+      "Variants": [
+        "10SCHAWIN",
+        "10THAWIN",
+        "12SCHAWIN",
+        "12THAWIN",
+        "14SCHAWIN",
+        "14THAWIN",
+        "16SCHAWIN",
+        "P12PANHX",
+        "P10IGFUH"
+      ]
+    },
+    "S_PIZMX": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf=0:0.5:1:1.5,Rd=0:0.5:1:1.5,Xw=0:0.5:1:1.5,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZMX",
+      "DefaultToppings": "X=1,C=2,P=1,H=1,S=1,B=1",
+      "DefaultSides": "",
+      "Description": "Slice after slice of pepperoni, ham, savory Italian sausage and beef topped with an extra layer of cheese.",
+      "ImageCode": "S_PIZMX",
+      "Local": false,
+      "Name": "MeatZZa",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza",
+        "ServingSize": "1/6 pizza",
+        "Cals": "240 to 388 cal per slice"
+      },
+      "Variants": [
+        "10SCMEATZA",
+        "10TMEATZA",
+        "12SCMEATZA",
+        "12TMEATZA",
+        "14SCMEATZA",
+        "14TMEATZA",
+        "16SCMEATZA",
+        "P12IPAMX",
+        "P10IGFMX"
+      ]
+    },
+    "S_PIZPX": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf=0:0.5:1:1.5,Rd=0:0.5:1:1.5,Xw=0:0.5:1:1.5,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZPX",
+      "DefaultToppings": "X=1,C=2,P=2",
+      "DefaultSides": "",
+      "Description": "Lots and lots of pepperoni topped with an extra layer of cheese.",
+      "ImageCode": "S_PIZPX",
+      "Local": false,
+      "Name": "Pepperoni Feast",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza",
+        "ServingSize": "1/6 pizza",
+        "Cals": "223 to 255 cal per slice"
+      },
+      "Variants": [
+        "10SCPFEAST",
+        "10TPFEAST",
+        "12SCPFEAST",
+        "12TPFEAST",
+        "14SCPFEAST",
+        "14TPFEAST",
+        "16SCPFEAST",
+        "P12IPAPX",
+        "P10IGFPX"
+      ]
+    },
+    "S_PIZPH": {
+      "AvailableToppings": "P,Xp,S,B,H,K,D,St,A,Ca,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZPH",
+      "DefaultToppings": "O=1,G=1,M=1,St=1,Ca=1,Cp=1",
+      "DefaultSides": "",
+      "Description": "Loaded with tender slices of steak, melted Provolone cheese, onions, green peppers, mushrooms, and American cheese.",
+      "ImageCode": "S_PIZPH",
+      "Local": false,
+      "Name": "Philly Steak",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza",
+        "ServingSize": "1/6 pizza",
+        "Cals": "209 to 313 cal per slice"
+      },
+      "Variants": [
+        "10SCPHILCS",
+        "10TPHILCS",
+        "12HTPHILCS",
+        "12TPHILCS",
+        "14HTPHILCS",
+        "14TPHILCS",
+        "16SCPHILCS",
+        "P12IPAPH",
+        "P10IGFPH"
+      ]
+    },
+    "S_PIZZA": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf=0:0.5:1:1.5,Rd=0:0.5:1:1.5,Xw=0:0.5:1:1.5,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZZA",
+      "DefaultToppings": "X=1,C=1",
+      "DefaultSides": "",
+      "Description": "A custom pizza made to order.",
+      "ImageCode": "S_PIZZA",
+      "Local": false,
+      "Name": "Pizza",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza",
+        "ServingSize": "1/6 pizza",
+        "Cals": "173 to 569 cal per slice"
+      },
+      "Variants": [
+        "10SCREEN",
+        "10THIN",
+        "12SCREEN",
+        "12THIN",
+        "14SCREEN",
+        "14THIN",
+        "16SCREEN",
+        "P12IPAZA",
+        "P10IGFZA"
+      ]
+    },
+    "S_PIZVX": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf=0:0.5:1:1.5,Rd=0:0.5:1:1.5,Xw=0:0.5:1:1.5,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZVX",
+      "DefaultToppings": "X=1,C=1,O=1,G=1,M=1,T=1,R=1",
+      "DefaultSides": "",
+      "Description": "A medley of fresh green peppers, onion, tomatoes, mushrooms, and olives.",
+      "ImageCode": "S_PIZVX",
+      "Local": false,
+      "Name": "Veggie",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza",
+        "ServingSize": "1/6 pizza",
+        "Cals": "179 to 286 cal per slice"
+      },
+      "Variants": [
+        "10SCVEGGIE",
+        "10TVEGGIE",
+        "12SCVEGGIE",
+        "12TVEGGIE",
+        "14SCVEGGIE",
+        "14TVEGGIE",
+        "16SCVEGGIE",
+        "P10IGFPV"
+      ]
+    },
+    "S_PIZCBA": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf=0:0.5:1:1.5,Rd=0:0.5:1:1.5,Xw=0:0.5:1:1.5,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZCBA",
+      "DefaultToppings": "C=1,O=1,M=1,K=1,D=1,E=1,Cp=1,Xf=1",
+      "DefaultSides": "",
+      "Description": "An Alfredo Sauce base with a Mozzarella/Cheddar Cheese blend, fresh mushrooms, onions, all white-meat chicken, bacon and Provolone cheese.",
+      "ImageCode": "S_PIZCBA",
+      "Local": false,
+      "Name": "Chicken Bacon Alfredo Pizza",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza",
+        "ServingSize": "1/6 pizza",
+        "Cals": "239 to 370 cal per slice"
+      },
+      "Variants": [
+        "10SCCBALF",
+        "12SCCBALF",
+        "14SCCBALF",
+        "16SCCBALF",
+        "P10IGFCBAL",
+        "10TCBALF",
+        "P12PANCBAL",
+        "12TCBALF",
+        "14TCBALF"
+      ]
+    },
+    "S_PIZCBR": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf=0:0.5:1:1.5,Rd=0:0.5:1:1.5,Xw=0:0.5:1:1.5,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZCBR",
+      "DefaultToppings": "Rd=1,C=1,G=1,K=1,D=1,T=1,E=1",
+      "DefaultSides": "",
+      "Description": "A Ranch Sauce base with a Mozzarella/Cheddar Cheese blend, fresh tomatoes, green peppers, all white-meat chicken and bacon.",
+      "ImageCode": "S_PIZCBR",
+      "Local": false,
+      "Name": "Chicken Bacon Ranch Pizza",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza",
+        "ServingSize": "1/6 pizza",
+        "Cals": "223 to 335 cal per slice"
+      },
+      "Variants": [
+        "10SCCBRAN",
+        "12SCCBRAN",
+        "14SCCBRAN",
+        "16SCCBRAN",
+        "P10IGFCBRA",
+        "10TCBRAN",
+        "P12PANCBRA",
+        "12TCBRAN",
+        "14TCBRAN"
+      ]
+    },
+    "S_BRKLYN": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf=0:0.5:1:1.5,Rd=0:0.5:1:1.5,Xw=0:0.5:1:1.5,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_BRKLYN",
+      "DefaultToppings": "X=1,C=1,Xp=1,Cp=1",
+      "DefaultSides": "",
+      "Description": "Specifically engineered to be big, thin, and perfectly foldable.",
+      "ImageCode": "S_BRKLYN",
+      "Local": false,
+      "Name": "Brooklyn Pizza",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza",
+        "ServingSize": "1/8 pizza",
+        "Cals": "332 to 340 cal per slice"
+      },
+      "Variants": [
+        "14SCRBRK",
+        "16SCRBRK"
+      ]
+    },
+    "S_PIZBQ": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZBQ",
+      "DefaultToppings": "C=1,O=1,G=1,K=1,D=1,E=1,Q=1",
+      "DefaultSides": "",
+      "Description": "Smothered in flavorful BBQ sauce and loaded with chicken, bacon, onions, green peppers and cheddar cheese.",
+      "ImageCode": "S_PIZBQ",
+      "Local": false,
+      "Name": "BBQ Chicken Feast",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza",
+        "Cals": "233 to 345 cal per slice"
+      },
+      "Variants": [
+        "P10IREBQ",
+        "P10ITHBQ",
+        "P12IREBQ",
+        "P12ITHBQ",
+        "P14IREBQ",
+        "P14ITHBQ",
+        "P16IREBQ",
+        "P12PANBQ",
+        "P10IGFCK"
+      ]
+    },
+    "S_PIZPV": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf=0:0.5:1:1.5,Rd=0:0.5:1:1.5,Xw=0:0.5:1:1.5,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZPV",
+      "DefaultToppings": "X=1,C=1,O=1,M=1,T=1,R=1,Fe=1,Cp=1,Rp=1,Sp=1",
+      "DefaultSides": "",
+      "Description": "Roasted red peppers, fresh baby spinach, fresh onions, fresh mushrooms, tomatoes, black olives, feta, provolone, cheese made with 100% real mozzarella and sprinkled with a garlic herb seasoning.",
+      "ImageCode": "S_PIZPV",
+      "Local": false,
+      "Name": "Pacific Veggie Pizza",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza"
+      },
+      "Variants": [
+        "10SCPACVEG",
+        "10TPACVEG",
+        "P10IGFPAV",
+        "12SCPACVEG",
+        "12TPACVEG",
+        "14SCPACVEG",
+        "14TPACVEG",
+        "16SCPACVEG"
+      ]
+    },
+    "S_PIZSF": {
+      "AvailableToppings": "X=0:0.5:1:1.5,Q=0:0.5:1:1.5,Xf=0:0.5:1:1.5,Rd=0:0.5:1:1.5,Xw=0:0.5:1:1.5,C,P,Xp,S,B,H,K,D,St,A,E,Fe,Pa,Cp,Z,R,V,G,M,N,O,T,J,Sp,Rp",
+      "AvailableSides": "",
+      "Code": "S_PIZSF",
+      "DefaultToppings": "C=1,O=1,Fe=1,Cp=1,Xf=1,Sp=1,Pa=1",
+      "DefaultSides": "",
+      "Description": "Creamy Alfredo sauce, fresh spinach, fresh onions, feta, Parmesan-Asiago, provolone and cheese made with 100% real mozzarella.",
+      "ImageCode": "S_PIZSF",
+      "Local": false,
+      "Name": "Spinach and Feta Pizza",
+      "ProductType": "Pizza",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3"
+        ],
+        "MaxOptionQty": "10",
+        "PartCount": "2",
+        "NeedsCustomization": true,
+        "CouponTier": "MultiplePizza"
+      },
+      "Variants": [
+        "10SCSPNFET",
+        "10TSPNFET",
+        "P10IGFSF",
+        "12SCSPNFET",
+        "12TSPNFET",
+        "14SCSPNFET",
+        "14TSPNFET",
+        "16SCSPNFET"
+      ]
+    },
+    "F_SIDRAN": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_SIDRAN",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "A ranch dressing dipping cup.",
+      "ImageCode": "F_SIDRAN",
+      "Local": false,
+      "Name": "Ranch Cup",
+      "ProductType": "Sides",
+      "Tags": {},
+      "Variants": [
+        "RANCH"
+      ]
+    },
+    "F_SIDGAR": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_SIDGAR",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "A buttery garlic dipping sauce.",
+      "ImageCode": "F_SIDGAR",
+      "Local": false,
+      "Name": "Roasted Garlic Dipping Sauce",
+      "ProductType": "Sides",
+      "Tags": {},
+      "Variants": [
+        "GARBUTTER"
+      ]
+    },
+    "F_HOTDCUP": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_HOTDCUP",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Hot Dip Cup.",
+      "ImageCode": "F_HOTDCUP",
+      "Local": false,
+      "Name": "Hot Dip Cup",
+      "ProductType": "Sides",
+      "Tags": {
+        "ServingSize": "1 Cup",
+        "Cals": "50"
+      },
+      "Variants": [
+        "HOTDCUP"
+      ]
+    },
+    "F_SIDICE": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_SIDICE",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "A thick sweet icing with a hint of vanilla.",
+      "ImageCode": "F_SIDICE",
+      "Local": false,
+      "Name": "Icing Cup",
+      "ProductType": "Sides",
+      "Tags": {},
+      "Variants": [
+        "ICING"
+      ]
+    },
+    "F_SIDCHB": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_SIDCHB",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Cheddar Habanero Dip Cup.",
+      "ImageCode": "F_SIDCHB",
+      "Local": false,
+      "Name": "Cheddar Habanero Dip Cup",
+      "ProductType": "Sides",
+      "Tags": {},
+      "Variants": [
+        "CHDRHABA"
+      ]
+    },
+    "F_SIDMAR": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_SIDMAR",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "A sweet tomato sauce blended with garlic, basil and oregano.",
+      "ImageCode": "F_SIDMAR",
+      "Local": false,
+      "Name": "Marinara Sauce Cup",
+      "ProductType": "Sides",
+      "Tags": {},
+      "Variants": [
+        "MARINARA"
+      ]
+    },
+    "F_CCOUPON": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_CCOUPON",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Side of Collect Coupon",
+      "ImageCode": "F_CCOUPON",
+      "Local": false,
+      "Name": "Side of Collect Coupon",
+      "ProductType": "Sides",
+      "Tags": {
+        "Invisible": true
+      },
+      "Variants": [
+        "CCOUPON"
+      ]
+    },
+    "F_BBQCUP": {
+      "AvailableToppings": "",
+      "AvailableSides": "",
+      "Code": "F_BBQCUP",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "BBQ Dip Cup",
+      "ImageCode": "F_BBQCUP",
+      "Local": false,
+      "Name": "BBQ Dip Cup",
+      "ProductType": "Sides",
+      "Tags": {},
+      "Variants": [
+        "BBQCUP"
+      ]
+    },
+    "S_BONEIN": {
+      "AvailableToppings": "",
+      "AvailableSides": "SIDRAN,BBQCUP",
+      "Code": "S_BONEIN",
+      "DefaultToppings": "",
+      "DefaultSides": "SIDRAN=1",
+      "Description": "Our chicken wings are now tastier than ever. Sauced with your choice of Hot, Honey Garlic, BBQ or Mango Habanero Sauce.",
+      "ImageCode": "S_BONEIN",
+      "Local": false,
+      "Name": "Wings",
+      "ProductType": "Wings",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "MaxOptionQty": "99"
+      },
+      "Variants": [
+        "10WHONEY",
+        "10WINGHOT",
+        "10WINGBBQ",
+        "10WINGSMH"
+      ]
+    },
+    "S_BONELESS": {
+      "AvailableToppings": "",
+      "AvailableSides": "SIDRAN,BBQCUP",
+      "Code": "S_BONELESS",
+      "DefaultToppings": "",
+      "DefaultSides": "BBQCUP=1",
+      "Description": "Our boneless chicken is lightly breaded with savoury herbs, made with 100% white breast meat. Comes with our signature BBQ sauce for dipping.",
+      "ImageCode": "S_BONELESS",
+      "Local": false,
+      "Name": "Boneless Chicken",
+      "ProductType": "Wings",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "MaxOptionQty": "99",
+        "ServingSize": "1/8 Order",
+        "Cals": "57"
+      },
+      "Variants": [
+        "W08PBNLW"
+      ]
+    },
+    "S_SCCBT": {
+      "AvailableToppings": "K=0:0.5:1,T=0:0.5:1",
+      "AvailableSides": "SIDRAN,BBQCUP",
+      "Code": "S_SCCBT",
+      "DefaultToppings": "K=1,T=1",
+      "DefaultSides": "",
+      "Description": "Tender bites of lightly breaded, 100% whole breast white meat chicken, topped with garlic parmesan white sauce, a blend of cheese made with mozzarella and cheddar, crispy bacon and tomato.",
+      "ImageCode": "S_SCCBT",
+      "Local": false,
+      "Name": "Specialty Chicken – Crispy Bacon & Tomato",
+      "ProductType": "Wings",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "MaxOptionQty": "99",
+        "SpecialtyChicken": true,
+        "ServingSize": "4 pieces",
+        "Cals": "220"
+      },
+      "Variants": [
+        "CKRGCBT"
+      ]
+    },
+    "S_SCCHB": {
+      "AvailableToppings": "",
+      "AvailableSides": "SIDRAN,BBQCUP",
+      "Code": "S_SCCHB",
+      "DefaultToppings": "",
+      "DefaultSides": "",
+      "Description": "Tender bites of lightly breaded, 100% whole breast white meat chicken, topped with classic hot buffalo sauce, ranch, a blend of cheese made with mozzarella and cheddar, and feta.",
+      "ImageCode": "S_SCCHB",
+      "Local": false,
+      "Name": "Specialty Chicken – Classic Hot Buffalo",
+      "ProductType": "Wings",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "MaxOptionQty": "99",
+        "SpecialtyChicken": true,
+        "ServingSize": "4 pieces",
+        "Cals": "170"
+      },
+      "Variants": [
+        "CKRGHTB"
+      ]
+    },
+    "S_SCSJP": {
+      "AvailableToppings": "J=0:0.5:1,N=0:0.5:1",
+      "AvailableSides": "SIDRAN,BBQCUP",
+      "Code": "S_SCSJP",
+      "DefaultToppings": "J=1,N=1",
+      "DefaultSides": "",
+      "Description": "Tender bites of lightly breaded, 100% whole breast white meat chicken, topped with sweet and spicy mango-habanero sauce, a blend of cheese made with mozzarella and cheddar, jalapeno and pineapple.",
+      "ImageCode": "S_SCSJP",
+      "Local": false,
+      "Name": "Specialty Chicken – Spicy Jalapeno - Pineapple",
+      "ProductType": "Wings",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "MaxOptionQty": "99",
+        "SpecialtyChicken": true,
+        "ServingSize": "4 pieces",
+        "Cals": "170"
+      },
+      "Variants": [
+        "CKRGSJP"
+      ]
+    },
+    "S_SCSBBQ": {
+      "AvailableToppings": "K=0:0.5:1",
+      "AvailableSides": "SIDRAN,BBQCUP",
+      "Code": "S_SCSBBQ",
+      "DefaultToppings": "K=1",
+      "DefaultSides": "",
+      "Description": "Tender bites of lightly breaded, 100% whole breast white meat chicken, topped with sweet and smoky BBQ sauce, a blend of cheese made with mozzarella and cheddar, and crispy bacon.",
+      "ImageCode": "S_SCSBBQ",
+      "Local": false,
+      "Name": "Specialty Chicken – Sweet BBQ Bacon",
+      "ProductType": "Wings",
+      "Tags": {
+        "OptionQtys": [
+          "0",
+          "0.5",
+          "1",
+          "1.5",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "MaxOptionQty": "99",
+        "SpecialtyChicken": true,
+        "ServingSize": "4 pieces",
+        "Cals": "180"
+      },
+      "Variants": [
+        "CKRGSBQ"
+      ]
+    }
+  },
+  "Sides": {
+    "Bread": {
+      "SIDGAR": {
+        "Availability": [],
+        "Code": "SIDGAR",
+        "Description": "",
+        "Local": false,
+        "Name": "Roasted Garlic Dipping Sauce",
+        "Tags": {
+          "Side": true
+        }
+      },
+      "SIDICE": {
+        "Availability": [],
+        "Code": "SIDICE",
+        "Description": "",
+        "Local": false,
+        "Name": "Icing",
+        "Tags": {
+          "Side": true
+        }
+      },
+      "SIDMAR": {
+        "Availability": [],
+        "Code": "SIDMAR",
+        "Description": "",
+        "Local": false,
+        "Name": "Marinara",
+        "Tags": {
+          "Side": true
+        }
+      },
+      "SIDRAN": {
+        "Availability": [],
+        "Code": "SIDRAN",
+        "Description": "",
+        "Local": false,
+        "Name": "Ranch",
+        "Tags": {
+          "Side": true
+        }
+      }
+    },
+    "Dessert": {
+      "SIDICE": {
+        "Availability": [],
+        "Code": "SIDICE",
+        "Description": "",
+        "Local": false,
+        "Name": "Icing",
+        "Tags": {
+          "Side": true
+        }
+      }
+    },
+    "Wings": {
+      "SIDRAN": {
+        "Availability": [],
+        "Code": "SIDRAN",
+        "Description": "A ranch dressing dipping cup",
+        "Local": false,
+        "Name": "Ranch",
+        "Tags": {
+          "Side": true
+        }
+      },
+      "BBQCUP": {
+        "Availability": [],
+        "Code": "BBQCUP",
+        "Description": "BBQ Dip Cup",
+        "Local": false,
+        "Name": "BBQ Dip Cup",
+        "Tags": {
+          "Side": true
+        }
+      }
+    }
+  },
+  "Sizes": {
+    "Bread": {
+      "BRD8": {
+        "Code": "BRD8",
+        "Description": "",
+        "Local": false,
+        "Name": "8 Piece",
+        "SortSeq": "01"
+      },
+      "BRD10": {
+        "Code": "BRD10",
+        "Description": "",
+        "Local": false,
+        "Name": "10\"",
+        "SortSeq": "04"
+      },
+      "BRD12": {
+        "Code": "BRD12",
+        "Description": "",
+        "Local": false,
+        "Name": "12\"",
+        "SortSeq": "05"
+      },
+      "BRD14": {
+        "Code": "BRD14",
+        "Description": "",
+        "Local": false,
+        "Name": "14\"",
+        "SortSeq": "06"
+      },
+      "BRD16": {
+        "Code": "BRD16",
+        "Description": "",
+        "Local": false,
+        "Name": "X-Large (16\")",
+        "SortSeq": "07"
+      },
+      "DRT8": {
+        "Code": "DRT8",
+        "Description": "",
+        "Local": false,
+        "Name": "8-Piece",
+        "SortSeq": "12"
+      },
+      "16PC": {
+        "Code": "16PC",
+        "Description": "",
+        "Local": false,
+        "Name": "16-Piece",
+        "SortSeq": "14"
+      }
+    },
+    "CHARGES": {
+      "CHGONE": {
+        "Code": "CHGONE",
+        "Description": "",
+        "Local": false,
+        "Name": "Each",
+        "SortSeq": "01"
+      }
+    },
+    "Dessert": {
+      "DRT1": {
+        "Code": "DRT1",
+        "Description": "",
+        "Local": false,
+        "Name": "1-Piece",
+        "SortSeq": "01"
+      },
+      "DRT2": {
+        "Code": "DRT2",
+        "Description": "",
+        "Local": false,
+        "Name": "2-Piece",
+        "SortSeq": "02"
+      },
+      "6PC": {
+        "Code": "6PC",
+        "Description": "",
+        "Local": false,
+        "Name": "6-Piece",
+        "SortSeq": "04"
+      },
+      "DRT12": {
+        "Code": "DRT12",
+        "Description": "",
+        "Local": false,
+        "Name": "12-Piece",
+        "SortSeq": "07"
+      }
+    },
+    "Drinks": {
+      "12OZC": {
+        "Code": "12OZC",
+        "Description": "",
+        "Local": false,
+        "Name": "355 ml Can",
+        "SortSeq": "01"
+      },
+      "2LTB": {
+        "Code": "2LTB",
+        "Description": "",
+        "Local": false,
+        "Name": "2 Litre",
+        "SortSeq": "02"
+      },
+      "473ml": {
+        "Code": "473ml",
+        "Description": "",
+        "Local": false,
+        "Name": "473 ml",
+        "SortSeq": "03"
+      },
+      "500ml": {
+        "Code": "500ml",
+        "Description": "",
+        "Local": false,
+        "Name": "500 ml",
+        "SortSeq": "09"
+      },
+      "591mlw": {
+        "Code": "591mlw",
+        "Description": "",
+        "Local": false,
+        "Name": "591 ml",
+        "SortSeq": "10"
+      }
+    },
+    "Pizza": {
+      "10": {
+        "Code": "10",
+        "Description": "",
+        "Local": false,
+        "Name": "Small (10\")",
+        "SortSeq": "03"
+      },
+      "12": {
+        "Code": "12",
+        "Description": "",
+        "Local": false,
+        "Name": "Medium (12\")",
+        "SortSeq": "04"
+      },
+      "14": {
+        "Code": "14",
+        "Description": "",
+        "Local": false,
+        "Name": "Large (14\")",
+        "SortSeq": "05"
+      },
+      "16": {
+        "Code": "16",
+        "Description": "",
+        "Local": false,
+        "Name": "X-Large (16\")",
+        "SortSeq": "06"
+      }
+    },
+    "Wings": {
+      "8PCW": {
+        "Code": "8PCW",
+        "Description": "",
+        "Local": false,
+        "Name": "8 Piece",
+        "SortSeq": "01"
+      },
+      "10PCW": {
+        "Code": "10PCW",
+        "Description": "",
+        "Local": false,
+        "Name": "10 Piece",
+        "SortSeq": "03"
+      },
+      "12PCB": {
+        "Code": "12PCB",
+        "Description": "",
+        "Local": false,
+        "Name": "12-Piece Bites",
+        "SortSeq": "15"
+      }
+    }
+  },
+  "Toppings": {
+    "Pasta": {
+      "Xf": {
+        "Availability": [],
+        "Code": "Xf",
+        "Description": "",
+        "Local": false,
+        "Name": "Alfredo Pasta Sauce",
+        "Tags": {
+          "WholeOnly": true,
+          "IgnoreQty": true,
+          "ExclusiveGroup": "Sauce",
+          "Sauce": true,
+          "NonMeat": true
+        }
+      },
+      "P": {
+        "Availability": [],
+        "Code": "P",
+        "Description": "",
+        "Local": false,
+        "Name": "Pepperoni",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "Xp": {
+        "Availability": [],
+        "Code": "Xp",
+        "Description": "",
+        "Local": false,
+        "Name": "Brooklyn Pepperoni",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "S": {
+        "Availability": [],
+        "Code": "S",
+        "Description": "",
+        "Local": false,
+        "Name": "Sausage",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "B": {
+        "Availability": [],
+        "Code": "B",
+        "Description": "",
+        "Local": false,
+        "Name": "Beef",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "H": {
+        "Availability": [],
+        "Code": "H",
+        "Description": "",
+        "Local": false,
+        "Name": "Ham",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "K": {
+        "Availability": [],
+        "Code": "K",
+        "Description": "",
+        "Local": false,
+        "Name": "Bacon",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "D": {
+        "Availability": [],
+        "Code": "D",
+        "Description": "",
+        "Local": false,
+        "Name": "Chicken*",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "A": {
+        "Availability": [],
+        "Code": "A",
+        "Description": "",
+        "Local": false,
+        "Name": "Anchovy*",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "E": {
+        "Availability": [],
+        "Code": "E",
+        "Description": "",
+        "Local": false,
+        "Name": "Cheddar*",
+        "Tags": {
+          "Cheese": true,
+          "NonMeat": true
+        }
+      },
+      "Fe": {
+        "Availability": [],
+        "Code": "Fe",
+        "Description": "",
+        "Local": false,
+        "Name": "Feta*",
+        "Tags": {
+          "Cheese": true,
+          "NonMeat": true
+        }
+      },
+      "Cp": {
+        "Availability": [],
+        "Code": "Cp",
+        "Description": "",
+        "Local": false,
+        "Name": "Provolone*",
+        "Tags": {
+          "Cheese": true,
+          "NonMeat": true
+        }
+      },
+      "G": {
+        "Availability": [],
+        "Code": "G",
+        "Description": "",
+        "Local": false,
+        "Name": "Green Pepper",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "M": {
+        "Availability": [],
+        "Code": "M",
+        "Description": "",
+        "Local": false,
+        "Name": "Mushrooms",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "N": {
+        "Availability": [],
+        "Code": "N",
+        "Description": "",
+        "Local": false,
+        "Name": "Pineapple",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "O": {
+        "Availability": [],
+        "Code": "O",
+        "Description": "",
+        "Local": false,
+        "Name": "Onions",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "R": {
+        "Availability": [],
+        "Code": "R",
+        "Description": "",
+        "Local": false,
+        "Name": "Black Olives",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "T": {
+        "Availability": [],
+        "Code": "T",
+        "Description": "",
+        "Local": false,
+        "Name": "Tomatoes",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "V": {
+        "Availability": [],
+        "Code": "V",
+        "Description": "",
+        "Local": false,
+        "Name": "Green Olives",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "Z": {
+        "Availability": [],
+        "Code": "Z",
+        "Description": "",
+        "Local": false,
+        "Name": "Hot Peppers",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      }
+    },
+    "Pizza": {
+      "X": {
+        "Availability": [],
+        "Code": "X",
+        "Description": "",
+        "Local": false,
+        "Name": "Pizza Sauce",
+        "Tags": {
+          "WholeOnly": true,
+          "IgnoreQty": true,
+          "ExclusiveGroup": "Sauce",
+          "Sauce": true,
+          "NonMeat": true
+        }
+      },
+      "Q": {
+        "Availability": [],
+        "Code": "Q",
+        "Description": "",
+        "Local": false,
+        "Name": "BBQ Sauce*",
+        "Tags": {
+          "WholeOnly": true,
+          "IgnoreQty": true,
+          "ExclusiveGroup": "Sauce",
+          "Sauce": true,
+          "NonMeat": true
+        }
+      },
+      "Xf": {
+        "Availability": [],
+        "Code": "Xf",
+        "Description": "",
+        "Local": false,
+        "Name": "Alfredo Pasta Sauce*",
+        "Tags": {
+          "WholeOnly": true,
+          "IgnoreQty": true,
+          "ExclusiveGroup": "Sauce",
+          "Sauce": true,
+          "NonMeat": true
+        }
+      },
+      "Rd": {
+        "Availability": [],
+        "Code": "Rd",
+        "Description": "",
+        "Local": false,
+        "Name": "Ranch Dressing*",
+        "Tags": {
+          "WholeOnly": true,
+          "IgnoreQty": true,
+          "ExclusiveGroup": "Sauce",
+          "Sauce": true,
+          "NonMeat": true
+        }
+      },
+      "Xw": {
+        "Availability": [],
+        "Code": "Xw",
+        "Description": "",
+        "Local": false,
+        "Name": "Garlic Parmesan Sauce*",
+        "Tags": {
+          "WholeOnly": true,
+          "IgnoreQty": true,
+          "ExclusiveGroup": "Sauce",
+          "Sauce": true,
+          "NonMeat": true
+        }
+      },
+      "C": {
+        "Availability": [],
+        "Code": "C",
+        "Description": "",
+        "Local": false,
+        "Name": "Cheese",
+        "Tags": {
+          "Cheese": true,
+          "NonMeat": true
+        }
+      },
+      "P": {
+        "Availability": [],
+        "Code": "P",
+        "Description": "",
+        "Local": false,
+        "Name": "Pepperoni",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "Xp": {
+        "Availability": [],
+        "Code": "Xp",
+        "Description": "",
+        "Local": false,
+        "Name": "Brooklyn Pepperoni",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "S": {
+        "Availability": [],
+        "Code": "S",
+        "Description": "",
+        "Local": false,
+        "Name": "Sausage",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "B": {
+        "Availability": [],
+        "Code": "B",
+        "Description": "",
+        "Local": false,
+        "Name": "Beef",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "H": {
+        "Availability": [],
+        "Code": "H",
+        "Description": "",
+        "Local": false,
+        "Name": "Ham",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "K": {
+        "Availability": [],
+        "Code": "K",
+        "Description": "",
+        "Local": false,
+        "Name": "Bacon",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "D": {
+        "Availability": [],
+        "Code": "D",
+        "Description": "",
+        "Local": false,
+        "Name": "Chicken*",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "St": {
+        "Availability": [],
+        "Code": "St",
+        "Description": "",
+        "Local": false,
+        "Name": "Philly Steak*",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "A": {
+        "Availability": [],
+        "Code": "A",
+        "Description": "",
+        "Local": false,
+        "Name": "Anchovy*",
+        "Tags": {
+          "Meat": true
+        }
+      },
+      "Ca": {
+        "Availability": [],
+        "Code": "Ca",
+        "Description": "",
+        "Local": false,
+        "Name": "American Cheese",
+        "Tags": {
+          "NonMeat": true
+        }
+      },
+      "E": {
+        "Availability": [],
+        "Code": "E",
+        "Description": "",
+        "Local": false,
+        "Name": "Cheddar*",
+        "Tags": {
+          "NonMeat": true
+        }
+      },
+      "Fe": {
+        "Availability": [],
+        "Code": "Fe",
+        "Description": "",
+        "Local": false,
+        "Name": "Feta*",
+        "Tags": {
+          "NonMeat": true
+        }
+      },
+      "Pa": {
+        "Availability": [],
+        "Code": "Pa",
+        "Description": "",
+        "Local": true,
+        "Name": "Parmesan Asiago",
+        "Tags": {
+          "NonMeat": true
+        }
+      },
+      "Cp": {
+        "Availability": [],
+        "Code": "Cp",
+        "Description": "",
+        "Local": false,
+        "Name": "Provolone*",
+        "Tags": {
+          "NonMeat": true
+        }
+      },
+      "Z": {
+        "Availability": [],
+        "Code": "Z",
+        "Description": "",
+        "Local": false,
+        "Name": "Hot Banana Peppers",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "R": {
+        "Availability": [],
+        "Code": "R",
+        "Description": "",
+        "Local": false,
+        "Name": "Black Olives",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "V": {
+        "Availability": [],
+        "Code": "V",
+        "Description": "",
+        "Local": false,
+        "Name": "Green Olives",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "G": {
+        "Availability": [],
+        "Code": "G",
+        "Description": "",
+        "Local": false,
+        "Name": "Green Pepper",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "M": {
+        "Availability": [],
+        "Code": "M",
+        "Description": "",
+        "Local": false,
+        "Name": "Mushroom",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "N": {
+        "Availability": [],
+        "Code": "N",
+        "Description": "",
+        "Local": false,
+        "Name": "Pineapple",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "O": {
+        "Availability": [],
+        "Code": "O",
+        "Description": "",
+        "Local": false,
+        "Name": "Onion",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "T": {
+        "Availability": [],
+        "Code": "T",
+        "Description": "",
+        "Local": false,
+        "Name": "Tomatoes",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "J": {
+        "Availability": [],
+        "Code": "J",
+        "Description": "",
+        "Local": false,
+        "Name": "Jalapeno Peppers",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "Sp": {
+        "Availability": [],
+        "Code": "Sp",
+        "Description": "",
+        "Local": false,
+        "Name": "Spinach",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      },
+      "Rp": {
+        "Availability": [],
+        "Code": "Rp",
+        "Description": "",
+        "Local": false,
+        "Name": "Roasted Red Peppers",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true
+        }
+      }
+    },
+    "Wings": {
+      "K": {
+        "Availability": [],
+        "Code": "K",
+        "Description": "",
+        "Local": false,
+        "Name": "Bacon",
+        "Tags": {
+          "Meat": true,
+          "Side": false
+        }
+      },
+      "J": {
+        "Availability": [],
+        "Code": "J",
+        "Description": "",
+        "Local": false,
+        "Name": "Jalapeno Peppers",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true,
+          "Side": false
+        }
+      },
+      "T": {
+        "Availability": [],
+        "Code": "T",
+        "Description": "",
+        "Local": false,
+        "Name": "Tomatoes",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true,
+          "Side": false
+        }
+      },
+      "N": {
+        "Availability": [],
+        "Code": "N",
+        "Description": "",
+        "Local": false,
+        "Name": "Pineapple",
+        "Tags": {
+          "Vege": true,
+          "NonMeat": true,
+          "Side": false
+        }
+      }
+    }
+  },
+  "Variants": {
+    "8BRDSTIX": {
+      "Code": "8BRDSTIX",
+      "FlavorCode": "",
+      "ImageCode": "8BRDSTIX",
+      "Local": false,
+      "Name": "8-Piece Breadsticks",
+      "Price": "3.99",
+      "ProductCode": "F_TWISTBRD",
+      "SizeCode": "BRD8",
+      "Tags": {
+        "ServingSize": "1/8 Order",
+        "Cals": "109",
+        "DefaultSides": "SIDMAR=1",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "CHSBREAD": {
+      "Code": "CHSBREAD",
+      "FlavorCode": "",
+      "ImageCode": "CHSBREAD",
+      "Local": false,
+      "Name": "8-Piece Domino's Pizza Cheesy Bread",
+      "Price": "5.99",
+      "ProductCode": "F_CHEBRD",
+      "SizeCode": "BRD8",
+      "Tags": {
+        "ServingSize": "1/8 Order",
+        "Cals": "119",
+        "DefaultSides": "SIDMAR=1",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "10BGARFI": {
+      "Code": "10BGARFI",
+      "FlavorCode": "",
+      "ImageCode": "10BGARFI",
+      "Local": true,
+      "Name": "10\" Bacon Garlic Fingers",
+      "Price": "8.99",
+      "ProductCode": "F_BGARFINGER",
+      "SizeCode": "BRD10",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "12BGARFI": {
+      "Code": "12BGARFI",
+      "FlavorCode": "",
+      "ImageCode": "12BGARFI",
+      "Local": true,
+      "Name": "12\" Bacon Garlic Fingers",
+      "Price": "10.99",
+      "ProductCode": "F_BGARFINGER",
+      "SizeCode": "BRD12",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "14BGARFI": {
+      "Code": "14BGARFI",
+      "FlavorCode": "",
+      "ImageCode": "14BGARFI",
+      "Local": true,
+      "Name": "14\" Bacon Garlic Fingers",
+      "Price": "12.99",
+      "ProductCode": "F_BGARFINGER",
+      "SizeCode": "BRD14",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "10GARFIN": {
+      "Code": "10GARFIN",
+      "FlavorCode": "",
+      "ImageCode": "10GARFIN",
+      "Local": false,
+      "Name": "10\" Domino's Pizza Cheesy Garlic Fingers",
+      "Price": "7.99",
+      "ProductCode": "F_GARFINGER",
+      "SizeCode": "BRD10",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "12GARFIN": {
+      "Code": "12GARFIN",
+      "FlavorCode": "",
+      "ImageCode": "12GARFIN",
+      "Local": false,
+      "Name": "12\" Domino's Pizza Cheesy Garlic Fingers",
+      "Price": "9.99",
+      "ProductCode": "F_GARFINGER",
+      "SizeCode": "BRD12",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "14GARFIN": {
+      "Code": "14GARFIN",
+      "FlavorCode": "",
+      "ImageCode": "14GARFIN",
+      "Local": false,
+      "Name": "14\" Domino's Pizza Cheesy Garlic Fingers",
+      "Price": "11.99",
+      "ProductCode": "F_GARFINGER",
+      "SizeCode": "BRD14",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "CINNASTIX8": {
+      "Code": "CINNASTIX8",
+      "FlavorCode": "",
+      "ImageCode": "CINNASTIX8",
+      "Local": false,
+      "Name": "8-Piece Cinna Stix®",
+      "Price": "4.99",
+      "ProductCode": "F_CINBRD",
+      "SizeCode": "DRT8",
+      "Tags": {
+        "ServingSize": "1/8 Order",
+        "Cals": "118",
+        "DefaultSides": "SIDICE=1",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "16PARMBITE": {
+      "Code": "16PARMBITE",
+      "FlavorCode": "",
+      "ImageCode": "16PARMBITE",
+      "Local": false,
+      "Name": "16pc Parmesan Bites",
+      "Price": "2.99",
+      "ProductCode": "F_PARM",
+      "SizeCode": "16PC",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "16GARFIN": {
+      "Code": "16GARFIN",
+      "FlavorCode": "",
+      "ImageCode": "16GARFIN",
+      "Local": false,
+      "Name": "16\" Domino's Pizza Cheesy Garlic Fingers",
+      "Price": "13.99",
+      "ProductCode": "F_GARFINGER",
+      "SizeCode": "BRD16",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "16BGARFI": {
+      "Code": "16BGARFI",
+      "FlavorCode": "",
+      "ImageCode": "16BGARFI",
+      "Local": true,
+      "Name": "16\" Bacon Garlic Fingers",
+      "Price": "14.99",
+      "ProductCode": "F_BGARFINGER",
+      "SizeCode": "BRD16",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "6MARBRWNE": {
+      "Code": "6MARBRWNE",
+      "FlavorCode": "",
+      "ImageCode": "6MARBRWNE",
+      "Local": false,
+      "Name": "Marbled Cookie Brownie",
+      "Price": "4.99",
+      "ProductCode": "F_MRBRWNE",
+      "SizeCode": "6PC",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "12MARBRWNE": {
+      "Code": "12MARBRWNE",
+      "FlavorCode": "",
+      "ImageCode": "12MARBRWNE",
+      "Local": false,
+      "Name": "Marbled Cookie Brownie",
+      "Price": "8.99",
+      "ProductCode": "F_MRBRWNE",
+      "SizeCode": "DRT12",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "B1PCLAVA": {
+      "Code": "B1PCLAVA",
+      "FlavorCode": "",
+      "ImageCode": "B1PCLAVA",
+      "Local": false,
+      "Name": "1-Piece Chocolate Lava Crunch Cake",
+      "Price": "1.99",
+      "ProductCode": "F_LAVA",
+      "SizeCode": "DRT1",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "B2PCLAVA": {
+      "Code": "B2PCLAVA",
+      "FlavorCode": "",
+      "ImageCode": "B2PCLAVA",
+      "Local": false,
+      "Name": "2-Piece Chocolate Lava Crunch Cakes",
+      "Price": "3.98",
+      "ProductCode": "F_LAVA",
+      "SizeCode": "DRT2",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "500COKE": {
+      "Code": "500COKE",
+      "FlavorCode": "",
+      "ImageCode": "500COKE",
+      "Local": false,
+      "Name": "500ml Coke®",
+      "Price": "1.99",
+      "ProductCode": "F_COKE",
+      "SizeCode": "500ml",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "2LCOKE": {
+      "Code": "2LCOKE",
+      "FlavorCode": "",
+      "ImageCode": "2LCOKE",
+      "Local": false,
+      "Name": "2 Litre Coke®",
+      "Price": "3.39",
+      "ProductCode": "F_COKE",
+      "SizeCode": "2LTB",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "500CZERO": {
+      "Code": "500CZERO",
+      "FlavorCode": "",
+      "ImageCode": "500CZERO",
+      "Local": false,
+      "Name": "500ml Coke Zero",
+      "Price": "1.99",
+      "ProductCode": "F_ZERO",
+      "SizeCode": "500ml",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "D2LBZRO": {
+      "Code": "D2LBZRO",
+      "FlavorCode": "",
+      "ImageCode": "D2LBZRO",
+      "Local": false,
+      "Name": "2 Litre Coke Zero",
+      "Price": "3.39",
+      "ProductCode": "F_ZERO",
+      "SizeCode": "2LTB",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "500DIETC": {
+      "Code": "500DIETC",
+      "FlavorCode": "",
+      "ImageCode": "500DIETC",
+      "Local": false,
+      "Name": "500ml Diet Coke®",
+      "Price": "1.99",
+      "ProductCode": "F_DIET",
+      "SizeCode": "500ml",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "2LDCOKE": {
+      "Code": "2LDCOKE",
+      "FlavorCode": "",
+      "ImageCode": "2LDCOKE",
+      "Local": false,
+      "Name": "2 Litre Diet Coke®",
+      "Price": "3.39",
+      "ProductCode": "F_DIET",
+      "SizeCode": "2LTB",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "12CDCOKE": {
+      "Code": "12CDCOKE",
+      "FlavorCode": "",
+      "ImageCode": "12CDCOKE",
+      "Local": false,
+      "Name": "355 ml Diet Coke® Can",
+      "Price": "1.69",
+      "ProductCode": "F_DIET",
+      "SizeCode": "12OZC",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "12CSPRITE": {
+      "Code": "12CSPRITE",
+      "FlavorCode": "",
+      "ImageCode": "12CSPRITE",
+      "Local": false,
+      "Name": "355 ml Sprite Can",
+      "Price": "1.69",
+      "ProductCode": "F_SPRITE",
+      "SizeCode": "12OZC",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "500GINGER": {
+      "Code": "500GINGER",
+      "FlavorCode": "",
+      "ImageCode": "500GINGER",
+      "Local": false,
+      "Name": "500ml Ginger Ale",
+      "Price": "1.99",
+      "ProductCode": "F_GingerAl",
+      "SizeCode": "500ml",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "500CNESTEA": {
+      "Code": "500CNESTEA",
+      "FlavorCode": "",
+      "ImageCode": "500CNESTEA",
+      "Local": true,
+      "Name": "500ml Nestea Cool",
+      "Price": "1.99",
+      "ProductCode": "F_NTEACOOL",
+      "SizeCode": "500ml",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "2LCNESTEA": {
+      "Code": "2LCNESTEA",
+      "FlavorCode": "",
+      "ImageCode": "2LCNESTEA",
+      "Local": true,
+      "Name": "2 Litre Nestea Cool",
+      "Price": "3.39",
+      "ProductCode": "F_NTEACOOL",
+      "SizeCode": "2LTB",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "591WATER": {
+      "Code": "591WATER",
+      "FlavorCode": "",
+      "ImageCode": "591WATER",
+      "Local": false,
+      "Name": "Water",
+      "Price": "1.99",
+      "ProductCode": "F_WATER",
+      "SizeCode": "591mlw",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "473FANTA": {
+      "Code": "473FANTA",
+      "FlavorCode": "",
+      "ImageCode": "473FANTA",
+      "Local": false,
+      "Name": "473ml Fanta Orange",
+      "Price": "1.99",
+      "ProductCode": "F_FANTA",
+      "SizeCode": "473ml",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "500AANDW": {
+      "Code": "500AANDW",
+      "FlavorCode": "",
+      "ImageCode": "500AANDW",
+      "Local": false,
+      "Name": "500ml A&W Root Beer",
+      "Price": "1.99",
+      "ProductCode": "F_AANDW",
+      "SizeCode": "500ml",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "2LAANDW": {
+      "Code": "2LAANDW",
+      "FlavorCode": "",
+      "ImageCode": "2LAANDW",
+      "Local": true,
+      "Name": "2 Litre A&W Root Beer",
+      "Price": "3.39",
+      "ProductCode": "F_AANDW",
+      "SizeCode": "2LTB",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "PINPASBD": {
+      "Code": "PINPASBD",
+      "FlavorCode": "PASTA",
+      "ImageCode": "PINPASBD",
+      "Local": false,
+      "Name": "Build Your Own Pasta",
+      "Price": "8.99",
+      "ProductCode": "S_BUILD",
+      "SizeCode": "",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "Xf=1"
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "PINPASCA": {
+      "Code": "PINPASCA",
+      "FlavorCode": "PASTA",
+      "ImageCode": "PINPASCA",
+      "Local": false,
+      "Name": "Chicken Alfredo",
+      "Price": "8.99",
+      "ProductCode": "S_ALFR",
+      "SizeCode": "",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "Xf=1,D=1"
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "PINPASCC": {
+      "Code": "PINPASCC",
+      "FlavorCode": "PASTA",
+      "ImageCode": "PINPASCC",
+      "Local": false,
+      "Name": "Chicken Carbonara",
+      "Price": "8.99",
+      "ProductCode": "S_CARB",
+      "SizeCode": "",
+      "Tags": {
+        "MaxOptionQty": "4",
+        "DefaultSides": "",
+        "DefaultToppings": "Xf=1,K=1,D=1,M=1,O=1"
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "PINPASMM": {
+      "Code": "PINPASMM",
+      "FlavorCode": "PASTA",
+      "ImageCode": "PINPASMM",
+      "Local": false,
+      "Name": "Italian Sausage Marinara",
+      "Price": "8.99",
+      "ProductCode": "S_MARIN",
+      "SizeCode": "",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "S=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "PINPASPP": {
+      "Code": "PINPASPP",
+      "FlavorCode": "PASTA",
+      "ImageCode": "PINPASPP",
+      "Local": false,
+      "Name": "Pasta Primavera",
+      "Price": "8.99",
+      "ProductCode": "S_PRIM",
+      "SizeCode": "",
+      "Tags": {
+        "MaxOptionQty": "4",
+        "DefaultSides": "",
+        "DefaultToppings": "Xf=1,G=1,M=1,O=1,T=1"
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "10SCCAN": {
+      "Code": "10SCCAN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "10SCCAN",
+      "Local": false,
+      "Name": "10\" Hand Tossed Canadian Pizza",
+      "Price": "14.99",
+      "ProductCode": "S_PIZCA",
+      "SizeCode": "10",
+      "Tags": {
+        "ServingSize": "1/6 pizza",
+        "Cals": "223",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,M=1,K=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10SCDELUX": {
+      "Code": "10SCDELUX",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "10SCDELUX",
+      "Local": false,
+      "Name": "10\" Hand Tossed Deluxe",
+      "Price": "13.99",
+      "ProductCode": "S_PIZDX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "206",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,P=1,O=1,G=1,M=1,S=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10SCEXTRAV": {
+      "Code": "10SCEXTRAV",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "10SCEXTRAV",
+      "Local": false,
+      "Name": "10\" Hand Tossed ExtravaganZZa",
+      "Price": "14.99",
+      "ProductCode": "S_PIZZZ",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "246",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,O=1,G=1,M=1,S=1,B=1,R=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10SCHAWIN": {
+      "Code": "10SCHAWIN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "10SCHAWIN",
+      "Local": false,
+      "Name": "10\" Hand Tossed Hawaiian",
+      "Price": "13.99",
+      "ProductCode": "S_PIZHX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "199",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,H=1,N=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10SCMEATZA": {
+      "Code": "10SCMEATZA",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "10SCMEATZA",
+      "Local": false,
+      "Name": "10\" Hand Tossed MeatZZa",
+      "Price": "14.99",
+      "ProductCode": "S_PIZMX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "240",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,S=1,B=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10SCPFEAST": {
+      "Code": "10SCPFEAST",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "10SCPFEAST",
+      "Local": false,
+      "Name": "10\" Hand Tossed Pepperoni Feast",
+      "Price": "13.99",
+      "ProductCode": "S_PIZPX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "223",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=2"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10SCPHILCS": {
+      "Code": "10SCPHILCS",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "10SCPHILCS",
+      "Local": false,
+      "Name": "10\" Hand Tossed Philly Steak",
+      "Price": "14.99",
+      "ProductCode": "S_PIZPH",
+      "SizeCode": "10",
+      "Tags": {
+        "ServingSize": "1/6 pizza",
+        "Cals": "209",
+        "DefaultSides": "",
+        "DefaultToppings": "O=1,G=1,M=1,St=1,Ca=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10SCREEN": {
+      "Code": "10SCREEN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "10SCREEN",
+      "Local": false,
+      "Name": "10\" Hand Tossed",
+      "Price": "8.99",
+      "ProductCode": "S_PIZZA",
+      "SizeCode": "10",
+      "Tags": {
+        "ServingSize": "1/6 pizza",
+        "Cals": "173-355",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10SCVEGGIE": {
+      "Code": "10SCVEGGIE",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "10SCVEGGIE",
+      "Local": false,
+      "Name": "10\" Hand Tossed Veggie",
+      "Price": "13.99",
+      "ProductCode": "S_PIZVX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "179",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,G=1,M=1,T=1,R=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10TCAN": {
+      "Code": "10TCAN",
+      "FlavorCode": "THIN",
+      "ImageCode": "10TCAN",
+      "Local": true,
+      "Name": "10\" Thin Canadian Pizza",
+      "Price": "14.99",
+      "ProductCode": "S_PIZCA",
+      "SizeCode": "10",
+      "Tags": {
+        "ServingSize": "1/6 pizza",
+        "Cals": "185",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,M=1,K=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "10TDELUX": {
+      "Code": "10TDELUX",
+      "FlavorCode": "THIN",
+      "ImageCode": "10TDELUX",
+      "Local": true,
+      "Name": "10\" Thin Deluxe",
+      "Price": "13.99",
+      "ProductCode": "S_PIZDX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "168",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,P=1,O=1,G=1,M=1,S=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "10TEXTRAV": {
+      "Code": "10TEXTRAV",
+      "FlavorCode": "THIN",
+      "ImageCode": "10TEXTRAV",
+      "Local": true,
+      "Name": "10\" Thin ExtravaganZZa",
+      "Price": "14.99",
+      "ProductCode": "S_PIZZZ",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "208",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,O=1,G=1,M=1,S=1,B=1,R=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "10THAWIN": {
+      "Code": "10THAWIN",
+      "FlavorCode": "THIN",
+      "ImageCode": "10THAWIN",
+      "Local": true,
+      "Name": "10\" Thin Hawaiian",
+      "Price": "13.99",
+      "ProductCode": "S_PIZHX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "163",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,H=1,N=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "10THIN": {
+      "Code": "10THIN",
+      "FlavorCode": "THIN",
+      "ImageCode": "10THIN",
+      "Local": true,
+      "Name": "10\" Thin",
+      "Price": "8.99",
+      "ProductCode": "S_PIZZA",
+      "SizeCode": "10",
+      "Tags": {
+        "ServingSize": "1/6 pizza",
+        "Cals": "135-327",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "10TMEATZA": {
+      "Code": "10TMEATZA",
+      "FlavorCode": "THIN",
+      "ImageCode": "10TMEATZA",
+      "Local": true,
+      "Name": "10\" Thin MeatZZa",
+      "Price": "14.99",
+      "ProductCode": "S_PIZMX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "202",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,S=1,B=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "10TPFEAST": {
+      "Code": "10TPFEAST",
+      "FlavorCode": "THIN",
+      "ImageCode": "10TPFEAST",
+      "Local": true,
+      "Name": "10\" Thin Pepperoni Feast",
+      "Price": "13.99",
+      "ProductCode": "S_PIZPX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "185",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=2"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "10TPHILCS": {
+      "Code": "10TPHILCS",
+      "FlavorCode": "THIN",
+      "ImageCode": "10TPHILCS",
+      "Local": true,
+      "Name": "10\" Thin Philly Steak",
+      "Price": "14.99",
+      "ProductCode": "S_PIZPH",
+      "SizeCode": "10",
+      "Tags": {
+        "ServingSize": "1/6 pizza",
+        "Cals": "171",
+        "DefaultSides": "",
+        "DefaultToppings": "O=1,G=1,M=1,St=1,Ca=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "10TVEGGIE": {
+      "Code": "10TVEGGIE",
+      "FlavorCode": "THIN",
+      "ImageCode": "10TVEGGIE",
+      "Local": true,
+      "Name": "10\" Thin Veggie",
+      "Price": "13.99",
+      "ProductCode": "S_PIZVX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "141",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,G=1,M=1,T=1,R=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "10SCCBALF": {
+      "Code": "10SCCBALF",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "10SCCBALF",
+      "Local": false,
+      "Name": "10\" Hand Tossed Chicken Bacon Alfredo Feast",
+      "Price": "14.99",
+      "ProductCode": "S_PIZCBA",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "185",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,M=1,K=1,D=1,E=1,Cp=1,Xf=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10SCCBRAN": {
+      "Code": "10SCCBRAN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "10SCCBRAN",
+      "Local": false,
+      "Name": "10\" Hand Tossed Chicken Bacon Ranch Feast",
+      "Price": "14.99",
+      "ProductCode": "S_PIZCBR",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "201",
+        "DefaultSides": "",
+        "DefaultToppings": "Rd=1,C=1,G=1,K=1,D=1,T=1,E=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12HTPHILCS": {
+      "Code": "12HTPHILCS",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "12HTPHILCS",
+      "Local": false,
+      "Name": "12\" Hand Tossed Philly Steak",
+      "Price": "17.99",
+      "ProductCode": "S_PIZPH",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "217",
+        "DefaultSides": "",
+        "DefaultToppings": "O=1,G=1,M=1,St=1,Ca=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12SCCAN": {
+      "Code": "12SCCAN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "12SCCAN",
+      "Local": false,
+      "Name": "12\" Hand Tossed Canadian Pizza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZCA",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "239",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,M=1,K=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12SCDELUX": {
+      "Code": "12SCDELUX",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "12SCDELUX",
+      "Local": false,
+      "Name": "12\" Hand Tossed Deluxe",
+      "Price": "16.99",
+      "ProductCode": "S_PIZDX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "214",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,P=1,O=1,G=1,M=1,S=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12SCEXTRAV": {
+      "Code": "12SCEXTRAV",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "12SCEXTRAV",
+      "Local": false,
+      "Name": "12\" Hand Tossed Extravaganzza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZZZ",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "263",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,O=1,G=1,M=1,S=1,B=1,R=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12SCHAWIN": {
+      "Code": "12SCHAWIN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "12SCHAWIN",
+      "Local": false,
+      "Name": "12\" Hand Tossed Hawaiian",
+      "Price": "16.99",
+      "ProductCode": "S_PIZHX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "209",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,H=1,N=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12SCMEATZA": {
+      "Code": "12SCMEATZA",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "12SCMEATZA",
+      "Local": false,
+      "Name": "12\" Hand Tossed Meatzza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZMX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "254",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,S=1,B=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12SCPFEAST": {
+      "Code": "12SCPFEAST",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "12SCPFEAST",
+      "Local": false,
+      "Name": "12\" Hand Tossed Pepperoni Feast",
+      "Price": "16.99",
+      "ProductCode": "S_PIZPX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "227",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=2"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12SCREEN": {
+      "Code": "12SCREEN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "12SCREEN",
+      "Local": false,
+      "Name": "12\" Hand Tossed ",
+      "Price": "10.99",
+      "ProductCode": "S_PIZZA",
+      "SizeCode": "12",
+      "Tags": {
+        "ServingSize": "1/8 pizza",
+        "Cals": "176-378",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12SCVEGGIE": {
+      "Code": "12SCVEGGIE",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "12SCVEGGIE",
+      "Local": false,
+      "Name": "12\" Hand Tossed Veggie",
+      "Price": "16.99",
+      "ProductCode": "S_PIZVX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "185",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,G=1,M=1,T=1,R=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12TCAN": {
+      "Code": "12TCAN",
+      "FlavorCode": "THIN",
+      "ImageCode": "12TCAN",
+      "Local": false,
+      "Name": "12\" Thin Canadian Pizza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZCA",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "203",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,M=1,K=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "12TDELUX": {
+      "Code": "12TDELUX",
+      "FlavorCode": "THIN",
+      "ImageCode": "12TDELUX",
+      "Local": false,
+      "Name": "12\" Thin Deluxe",
+      "Price": "16.99",
+      "ProductCode": "S_PIZDX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "188",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,P=1,O=1,G=1,M=1,S=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "12TEXTRAV": {
+      "Code": "12TEXTRAV",
+      "FlavorCode": "THIN",
+      "ImageCode": "12TEXTRAV",
+      "Local": false,
+      "Name": "12\" Thin Extrav",
+      "Price": "17.99",
+      "ProductCode": "S_PIZZZ",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,O=1,G=1,M=1,S=1,B=1,R=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "12THAWIN": {
+      "Code": "12THAWIN",
+      "FlavorCode": "THIN",
+      "ImageCode": "12THAWIN",
+      "Local": false,
+      "Name": "12\" Thin Hawaiian",
+      "Price": "16.99",
+      "ProductCode": "S_PIZHX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "227",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,H=1,N=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "12THIN": {
+      "Code": "12THIN",
+      "FlavorCode": "THIN",
+      "ImageCode": "12THIN",
+      "Local": false,
+      "Name": "12\" Thin",
+      "Price": "10.99",
+      "ProductCode": "S_PIZZA",
+      "SizeCode": "12",
+      "Tags": {
+        "ServingSize": "1/8 pizza",
+        "Cals": "138-340",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "12TMEATZA": {
+      "Code": "12TMEATZA",
+      "FlavorCode": "THIN",
+      "ImageCode": "12TMEATZA",
+      "Local": false,
+      "Name": "12\" Thin Meatzza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZMX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "217",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,S=1,B=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "12TPFEAST": {
+      "Code": "12TPFEAST",
+      "FlavorCode": "THIN",
+      "ImageCode": "12TPFEAST",
+      "Local": false,
+      "Name": "12\" Thin Pepperoni Feast",
+      "Price": "16.99",
+      "ProductCode": "S_PIZPX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "187",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=2"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "12TPHILCS": {
+      "Code": "12TPHILCS",
+      "FlavorCode": "THIN",
+      "ImageCode": "12TPHILCS",
+      "Local": false,
+      "Name": "12\" Thin Philly Steak",
+      "Price": "17.99",
+      "ProductCode": "S_PIZPH",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "181",
+        "DefaultSides": "",
+        "DefaultToppings": "O=1,G=1,M=1,St=1,Ca=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "12TVEGGIE": {
+      "Code": "12TVEGGIE",
+      "FlavorCode": "THIN",
+      "ImageCode": "12TVEGGIE",
+      "Local": false,
+      "Name": "12\" Thin Veggie",
+      "Price": "16.99",
+      "ProductCode": "S_PIZVX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "151",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,G=1,M=1,T=1,R=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "12SCCBALF": {
+      "Code": "12SCCBALF",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "12SCCBALF",
+      "Local": false,
+      "Name": "12\" Hand Tossed Chicken Bacon Alfredo Feast",
+      "Price": "17.99",
+      "ProductCode": "S_PIZCBA",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "258",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,M=1,K=1,D=1,E=1,Cp=1,Xf=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12SCCBRAN": {
+      "Code": "12SCCBRAN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "12SCCBRAN",
+      "Local": false,
+      "Name": "12\" Hand Tossed Chicken Bacon Ranch Feast",
+      "Price": "17.99",
+      "ProductCode": "S_PIZCBR",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "233",
+        "DefaultSides": "",
+        "DefaultToppings": "Rd=1,C=1,G=1,K=1,D=1,T=1,E=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14HTPHILCS": {
+      "Code": "14HTPHILCS",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14HTPHILCS",
+      "Local": false,
+      "Name": "14\" Hand Tossed Philly Steak",
+      "Price": "20.99",
+      "ProductCode": "S_PIZPH",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "287",
+        "DefaultSides": "",
+        "DefaultToppings": "O=1,G=1,M=1,St=1,Ca=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14SCCAN": {
+      "Code": "14SCCAN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14SCCAN",
+      "Local": false,
+      "Name": "14\" Hand Tossed Canadian Pizza",
+      "Price": "20.99",
+      "ProductCode": "S_PIZCA",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "315",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,M=1,K=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14SCDELUX": {
+      "Code": "14SCDELUX",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14SCDELUX",
+      "Local": false,
+      "Name": "14\" Hand Tossed Deluxe",
+      "Price": "19.99",
+      "ProductCode": "S_PIZDX",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "289",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,P=1,O=1,G=1,M=1,S=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14SCEXTRAV": {
+      "Code": "14SCEXTRAV",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14SCEXTRAV",
+      "Local": false,
+      "Name": "14\" Hand Tossed Extravaganzza",
+      "Price": "20.99",
+      "ProductCode": "S_PIZZZ",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "357",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,O=1,G=1,M=1,S=1,B=1,R=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14SCHAWIN": {
+      "Code": "14SCHAWIN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14SCHAWIN",
+      "Local": false,
+      "Name": "14\" Hand Tossed Hawaiian",
+      "Price": "19.99",
+      "ProductCode": "S_PIZHX",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "284",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,H=1,N=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14SCMEATZA": {
+      "Code": "14SCMEATZA",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14SCMEATZA",
+      "Local": false,
+      "Name": "14\" Hand Tossed Meatzza",
+      "Price": "20.99",
+      "ProductCode": "S_PIZMX",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "344",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,S=1,B=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14SCPFEAST": {
+      "Code": "14SCPFEAST",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14SCPFEAST",
+      "Local": false,
+      "Name": "14\" Hand Tossed Pepperoni Feast",
+      "Price": "19.99",
+      "ProductCode": "S_PIZPX",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "247",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=2"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14SCRBRK": {
+      "Code": "14SCRBRK",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14SCRBRK",
+      "Local": false,
+      "Name": "14\" Brooklyn",
+      "Price": "19.99",
+      "ProductCode": "S_BRKLYN",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "332",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,Xp=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14SCREEN": {
+      "Code": "14SCREEN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14SCREEN",
+      "Local": false,
+      "Name": "14\" Hand Tossed ",
+      "Price": "12.99",
+      "ProductCode": "S_PIZZA",
+      "SizeCode": "14",
+      "Tags": {
+        "ServingSize": "1/8 pizza",
+        "Cals": "239-515",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14SCVEGGIE": {
+      "Code": "14SCVEGGIE",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14SCVEGGIE",
+      "Local": false,
+      "Name": "14\" Hand Tossed Veggie",
+      "Price": "19.99",
+      "ProductCode": "S_PIZVX",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "251",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,G=1,M=1,T=1,R=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14TCAN": {
+      "Code": "14TCAN",
+      "FlavorCode": "THIN",
+      "ImageCode": "14TCAN",
+      "Local": false,
+      "Name": "14\" Thin Canadian Pizza",
+      "Price": "20.99",
+      "ProductCode": "S_PIZCA",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "280",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,M=1,K=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "14TDELUX": {
+      "Code": "14TDELUX",
+      "FlavorCode": "THIN",
+      "ImageCode": "14TDELUX",
+      "Local": false,
+      "Name": "14\" Thin Deluxe",
+      "Price": "19.99",
+      "ProductCode": "S_PIZDX",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "244",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,P=1,O=1,G=1,M=1,S=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "14TEXTRAV": {
+      "Code": "14TEXTRAV",
+      "FlavorCode": "THIN",
+      "ImageCode": "14TEXTRAV",
+      "Local": false,
+      "Name": "14\" Thin Extravaganzza",
+      "Price": "20.99",
+      "ProductCode": "S_PIZZZ",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "311",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,O=1,G=1,M=1,S=1,B=1,R=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "14THAWIN": {
+      "Code": "14THAWIN",
+      "FlavorCode": "THIN",
+      "ImageCode": "14THAWIN",
+      "Local": false,
+      "Name": "14\" Thin Hawaiian",
+      "Price": "19.99",
+      "ProductCode": "S_PIZHX",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "239",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,H=1,N=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "14THIN": {
+      "Code": "14THIN",
+      "FlavorCode": "THIN",
+      "ImageCode": "14THIN",
+      "Local": false,
+      "Name": "14\" Thin",
+      "Price": "12.99",
+      "ProductCode": "S_PIZZA",
+      "SizeCode": "14",
+      "Tags": {
+        "ServingSize": "1/8 pizza",
+        "Cals": "194-470",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "14TMEATZA": {
+      "Code": "14TMEATZA",
+      "FlavorCode": "THIN",
+      "ImageCode": "14TMEATZA",
+      "Local": false,
+      "Name": "14\" Thin Meatzza",
+      "Price": "20.99",
+      "ProductCode": "S_PIZMX",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "299",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,S=1,B=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "14TPFEAST": {
+      "Code": "14TPFEAST",
+      "FlavorCode": "THIN",
+      "ImageCode": "14TPFEAST",
+      "Local": false,
+      "Name": "14\" Thin Pepperoni Feast",
+      "Price": "19.99",
+      "ProductCode": "S_PIZPX",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "202",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=2"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "14TPHILCS": {
+      "Code": "14TPHILCS",
+      "FlavorCode": "THIN",
+      "ImageCode": "14TPHILCS",
+      "Local": false,
+      "Name": "14\" Thin Philly",
+      "Price": "20.99",
+      "ProductCode": "S_PIZPH",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "242",
+        "DefaultSides": "",
+        "DefaultToppings": "O=1,G=1,M=1,St=1,Ca=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "14TVEGGIE": {
+      "Code": "14TVEGGIE",
+      "FlavorCode": "THIN",
+      "ImageCode": "14TVEGGIE",
+      "Local": false,
+      "Name": "14\" Thin Veggie",
+      "Price": "20.99",
+      "ProductCode": "S_PIZVX",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "206",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,G=1,M=1,T=1,R=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "16SCCAN": {
+      "Code": "16SCCAN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCCAN",
+      "Local": false,
+      "Name": "16\" Hand Tossed Canadian Pizza",
+      "Price": "23.99",
+      "ProductCode": "S_PIZCA",
+      "SizeCode": "16",
+      "Tags": {
+        "ServingSize": "1/10 pizza",
+        "Cals": "365",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,M=1,K=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "16SCDELUX": {
+      "Code": "16SCDELUX",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCDELUX",
+      "Local": false,
+      "Name": "16\" Hand Tossed Deluxe",
+      "Price": "22.99",
+      "ProductCode": "S_PIZDX",
+      "SizeCode": "16",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/10 pizza",
+        "Cals": "330",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,P=1,O=1,G=1,M=1,S=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "16SCEXTRAV": {
+      "Code": "16SCEXTRAV",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCEXTRAV",
+      "Local": false,
+      "Name": "16\" Hand Tossed ExtravaganZZa",
+      "Price": "23.99",
+      "ProductCode": "S_PIZZZ",
+      "SizeCode": "16",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/10 pizza",
+        "Cals": "401",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,O=1,G=1,M=1,S=1,B=1,R=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "16SCHAWIN": {
+      "Code": "16SCHAWIN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCHAWIN",
+      "Local": false,
+      "Name": "16\" Hand Tossed Hawaiian",
+      "Price": "22.99",
+      "ProductCode": "S_PIZHX",
+      "SizeCode": "16",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/10 pizza",
+        "Cals": "321",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,H=1,N=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "16SCMEATZA": {
+      "Code": "16SCMEATZA",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCMEATZA",
+      "Local": false,
+      "Name": "16\" Hand Tossed MeatZZa",
+      "Price": "23.99",
+      "ProductCode": "S_PIZMX",
+      "SizeCode": "16",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/10 pizza",
+        "Cals": "388",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,S=1,B=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "16SCPFEAST": {
+      "Code": "16SCPFEAST",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCPFEAST",
+      "Local": false,
+      "Name": "16\" Hand Tossed Pepperoni Feast",
+      "Price": "22.99",
+      "ProductCode": "S_PIZPX",
+      "SizeCode": "16",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/10 pizza",
+        "Cals": "255",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=2"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "16SCPHILCS": {
+      "Code": "16SCPHILCS",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCPHILCS",
+      "Local": false,
+      "Name": "16\" Hand Tossed Philly Steak",
+      "Price": "23.99",
+      "ProductCode": "S_PIZPH",
+      "SizeCode": "16",
+      "Tags": {
+        "ServingSize": "1/10 pizza",
+        "Cals": "313",
+        "DefaultSides": "",
+        "DefaultToppings": "O=1,G=1,M=1,St=1,Ca=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "16SCRBRK": {
+      "Code": "16SCRBRK",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCRBRK",
+      "Local": false,
+      "Name": "16\" Brooklyn Style Pizza",
+      "Price": "22.99",
+      "ProductCode": "S_BRKLYN",
+      "SizeCode": "16",
+      "Tags": {
+        "ServingSize": "1/10 pizza",
+        "Cals": "340",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,Xp=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": false
+    },
+    "16SCREEN": {
+      "Code": "16SCREEN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCREEN",
+      "Local": false,
+      "Name": "16\" Hand Tossed ",
+      "Price": "14.99",
+      "ProductCode": "S_PIZZA",
+      "SizeCode": "16",
+      "Tags": {
+        "ServingSize": "1/10 pizza",
+        "Cals": "274-569",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "16SCVEGGIE": {
+      "Code": "16SCVEGGIE",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCVEGGIE",
+      "Local": false,
+      "Name": "16\" Hand Tossed Veggie",
+      "Price": "22.99",
+      "ProductCode": "S_PIZVX",
+      "SizeCode": "16",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/10 pizza",
+        "Cals": "286",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,G=1,M=1,T=1,R=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P10IREBQ": {
+      "Code": "P10IREBQ",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "P10IREBQ",
+      "Local": false,
+      "Name": "10\" Hand Tossed BBQ Feast",
+      "Price": "14.99",
+      "ProductCode": "S_PIZBQ",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,G=1,K=1,D=1,E=1,Q=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P10ITHBQ": {
+      "Code": "P10ITHBQ",
+      "FlavorCode": "THIN",
+      "ImageCode": "P10ITHBQ",
+      "Local": true,
+      "Name": "10\" Thin BBQ Feast",
+      "Price": "12.99",
+      "ProductCode": "S_PIZBQ",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "195",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,G=1,K=1,D=1,E=1,Q=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "P12IREBQ": {
+      "Code": "P12IREBQ",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "P12IREBQ",
+      "Local": false,
+      "Name": "12\" Hand Tossed BBQ Feast",
+      "Price": "17.99",
+      "ProductCode": "S_PIZBQ",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "213",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,G=1,K=1,D=1,E=1,Q=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P12ITHBQ": {
+      "Code": "P12ITHBQ",
+      "FlavorCode": "THIN",
+      "ImageCode": "P12ITHBQ",
+      "Local": false,
+      "Name": "12\" Thin BBQ Feast",
+      "Price": "17.99",
+      "ProductCode": "S_PIZBQ",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "223",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,G=1,K=1,D=1,E=1,Q=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "P14IREBQ": {
+      "Code": "P14IREBQ",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "P14IREBQ",
+      "Local": false,
+      "Name": "14\" Hand Tossed BBQ Feast",
+      "Price": "20.99",
+      "ProductCode": "S_PIZBQ",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "279",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,G=1,K=1,D=1,E=1,Q=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P14ITHBQ": {
+      "Code": "P14ITHBQ",
+      "FlavorCode": "THIN",
+      "ImageCode": "P14ITHBQ",
+      "Local": false,
+      "Name": "14\" Thin BBQ Feast",
+      "Price": "20.99",
+      "ProductCode": "S_PIZBQ",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "279",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,G=1,K=1,D=1,E=1,Q=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "P16IREBQ": {
+      "Code": "P16IREBQ",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "P16IREBQ",
+      "Local": false,
+      "Name": "16\" Hand Tossed BBQ Feast",
+      "Price": "23.99",
+      "ProductCode": "S_PIZBQ",
+      "SizeCode": "16",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/10 pizza",
+        "Cals": "300",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,G=1,K=1,D=1,E=1,Q=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P12IPAZA": {
+      "Code": "P12IPAZA",
+      "FlavorCode": "NPAN",
+      "ImageCode": "P12IPAZA",
+      "Local": false,
+      "Name": "12\" Handmade Pan Pizza",
+      "Price": "10.99",
+      "ProductCode": "S_PIZZA",
+      "SizeCode": "12",
+      "Tags": {
+        "ServingSize": "1/8 pizza",
+        "Cals": "318-418",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,NB,LD,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P12IPAPH": {
+      "Code": "P12IPAPH",
+      "FlavorCode": "NPAN",
+      "ImageCode": "P12IPAPH",
+      "Local": false,
+      "Name": "12\" Philly Steak Handmade Pan Pizza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZPH",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "288",
+        "DefaultSides": "",
+        "DefaultToppings": "O=1,G=1,M=1,St=1,Ca=1,Cp=1,X=1"
+      },
+      "AllowedCookingInstructions": "WD,NB,LD,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P12IPAPX": {
+      "Code": "P12IPAPX",
+      "FlavorCode": "NPAN",
+      "ImageCode": "P12IPAPX",
+      "Local": false,
+      "Name": "12\" Pepperoni Feast Handmade Pan Pizza",
+      "Price": "16.99",
+      "ProductCode": "S_PIZPX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "298",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=2,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,NB,LD,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P12IPADX": {
+      "Code": "P12IPADX",
+      "FlavorCode": "NPAN",
+      "ImageCode": "P12IPADX",
+      "Local": false,
+      "Name": "12\" Deluxe Handmade Pan Pizza",
+      "Price": "16.99",
+      "ProductCode": "S_PIZDX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "285",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,P=1,O=1,G=1,M=1,S=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,NB,LD,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P12IPAZZ": {
+      "Code": "P12IPAZZ",
+      "FlavorCode": "NPAN",
+      "ImageCode": "P12IPAZZ",
+      "Local": false,
+      "Name": "12\" ExtragavanZZa Handmade Pan Pizza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZZZ",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "334",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,O=1,G=1,M=1,S=1,B=1,R=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,NB,LD,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P12IPAMX": {
+      "Code": "P12IPAMX",
+      "FlavorCode": "NPAN",
+      "ImageCode": "P12IPAMX",
+      "Local": false,
+      "Name": "12\" MeatZZa Handmade Pan Pizza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZMX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "254",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,S=1,B=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,NB,LD,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P12PANHX": {
+      "Code": "P12PANHX",
+      "FlavorCode": "NPAN",
+      "ImageCode": "P12PANHX",
+      "Local": false,
+      "Name": "12\" Hawaiian Handmade Pan Pizza",
+      "Price": "16.99",
+      "ProductCode": "S_PIZHX",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "280",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,H=1,N=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,NB,LD,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P12PANCA": {
+      "Code": "P12PANCA",
+      "FlavorCode": "NPAN",
+      "ImageCode": "P12PANCA",
+      "Local": false,
+      "Name": "12\" Canadian Handmade Pan Pizza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZCA",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "310",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,M=1,K=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,NB,LD,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P12PANBQ": {
+      "Code": "P12PANBQ",
+      "FlavorCode": "NPAN",
+      "ImageCode": "P12PANBQ",
+      "Local": false,
+      "Name": "12\" BBQ Chicken Handmade Pan Pizza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZBQ",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "320",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,G=1,K=1,D=1,E=1,Q=1,Cp=1"
+      },
+      "AllowedCookingInstructions": "WD,NB,LD,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P10IGFZA": {
+      "Code": "P10IGFZA",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFZA",
+      "Local": false,
+      "Name": "10\" Gluten-Free Crust Pizza",
+      "Price": "8.99",
+      "ProductCode": "S_PIZZA",
+      "SizeCode": "10",
+      "Tags": {
+        "ServingSize": "1/6 pizza",
+        "Cals": "141-324",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P10IGFPH": {
+      "Code": "P10IGFPH",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFPH",
+      "Local": false,
+      "Name": "10\" Philly Steak Gluten-Free Crust Pizza",
+      "Price": "14.99",
+      "ProductCode": "S_PIZPH",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "186",
+        "DefaultSides": "",
+        "DefaultToppings": "O=1,G=1,M=1,St=1,Ca=1,Cp=1,X=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P10IGFPX": {
+      "Code": "P10IGFPX",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFPX",
+      "Local": false,
+      "Name": "10\" Pepperoni Feast Gluten-Free Crust Pizza",
+      "Price": "13.99",
+      "ProductCode": "S_PIZPX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "190",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=2"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P10IGFDX": {
+      "Code": "P10IGFDX",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFDX",
+      "Local": false,
+      "Name": "10\" Deluxe Gluten-Free Crust Pizza",
+      "Price": "13.99",
+      "ProductCode": "S_PIZDX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "273",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,P=1,O=1,G=1,M=1,S=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P10IGFZZ": {
+      "Code": "P10IGFZZ",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFZZ",
+      "Local": false,
+      "Name": "10\" ExtragavanZZa Gluten-Free Crust Pizza",
+      "Price": "14.99",
+      "ProductCode": "S_PIZZZ",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "183",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,O=1,G=1,M=1,S=1,B=1,R=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P10IGFMX": {
+      "Code": "P10IGFMX",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFMX",
+      "Local": false,
+      "Name": "10\" MeatZZa Gluten-Free Crust Pizza",
+      "Price": "14.99",
+      "ProductCode": "S_PIZMX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "240",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,H=1,S=1,B=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P10IGFCK": {
+      "Code": "P10IGFCK",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFCK",
+      "Local": false,
+      "Name": "10\" BBQ Chicken Gluten-Free Crust Pizza",
+      "Price": "12.99",
+      "ProductCode": "S_PIZBQ",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,G=1,K=1,D=1,E=1,Q=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P10IGFPV": {
+      "Code": "P10IGFPV",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFPV",
+      "Local": false,
+      "Name": "10\" Veggie Gluten-Free Crust Pizza",
+      "Price": "13.99",
+      "ProductCode": "S_PIZVX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,G=1,M=1,T=1,R=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P10IGFUH": {
+      "Code": "P10IGFUH",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFUH",
+      "Local": false,
+      "Name": "10\" Hawaiian Gluten-Free Crust Pizza",
+      "Price": "13.99",
+      "ProductCode": "S_PIZHX",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "166",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,H=1,N=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P10IGFCAN": {
+      "Code": "P10IGFCAN",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFCAN",
+      "Local": false,
+      "Name": "10\" Canadian Gluten-Free Crust Pizza",
+      "Price": "14.99",
+      "ProductCode": "S_PIZCA",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "190",
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=2,P=1,M=1,K=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14SCCBALF": {
+      "Code": "14SCCBALF",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14SCCBALF",
+      "Local": false,
+      "Name": "14\" Hand Tossed Chicken Bacon Alfredo Feast",
+      "Price": "20.99",
+      "ProductCode": "S_PIZCBA",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "337",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,M=1,K=1,D=1,E=1,Cp=1,Xf=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14SCCBRAN": {
+      "Code": "14SCCBRAN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14SCCBRAN",
+      "Local": false,
+      "Name": "14\" Hand Tossed Chicken Bacon Ranch Feast",
+      "Price": "20.99",
+      "ProductCode": "S_PIZCBR",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "306",
+        "DefaultSides": "",
+        "DefaultToppings": "Rd=1,C=1,G=1,K=1,D=1,T=1,E=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "16SCCBALF": {
+      "Code": "16SCCBALF",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCCBALF",
+      "Local": false,
+      "Name": "16\" Hand Tossed Chicken Bacon Alfredo Feast",
+      "Price": "23.99",
+      "ProductCode": "S_PIZCBA",
+      "SizeCode": "16",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/10 pizza",
+        "Cals": "370",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,M=1,K=1,D=1,E=1,Cp=1,Xf=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "16SCCBRAN": {
+      "Code": "16SCCBRAN",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCCBRAN",
+      "Local": false,
+      "Name": "16\" Hand Tossed Chicken Bacon Ranch Feast",
+      "Price": "23.99",
+      "ProductCode": "S_PIZCBR",
+      "SizeCode": "16",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/10 pizza",
+        "Cals": "335",
+        "DefaultSides": "",
+        "DefaultToppings": "Rd=1,C=1,G=1,K=1,D=1,T=1,E=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "P10IGFCBAL": {
+      "Code": "P10IGFCBAL",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFCBAL",
+      "Local": false,
+      "Name": "10\" Gluten-Free Crust Chicken Bacon Alfredo Feast",
+      "Price": "14.99",
+      "ProductCode": "S_PIZCBA",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "203",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,M=1,K=1,D=1,E=1,Cp=1,Xf=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10TCBALF": {
+      "Code": "10TCBALF",
+      "FlavorCode": "THIN",
+      "ImageCode": "10TCBALF",
+      "Local": true,
+      "Name": "10\" Thin Chicken Bacon Alfredo Feast",
+      "Price": "14.99",
+      "ProductCode": "S_PIZCBA",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "203",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,M=1,K=1,D=1,E=1,Cp=1,Xf=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "P12PANCBAL": {
+      "Code": "P12PANCBAL",
+      "FlavorCode": "NPAN",
+      "ImageCode": "P12PANCBAL",
+      "Local": false,
+      "Name": "12\" Handmade Pan Chicken Bacon Alfredo Feast",
+      "Price": "17.99",
+      "ProductCode": "S_PIZCBA",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "222",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,M=1,K=1,D=1,E=1,Cp=1,Xf=1"
+      },
+      "AllowedCookingInstructions": "WD,NB,LD,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12TCBALF": {
+      "Code": "12TCBALF",
+      "FlavorCode": "THIN",
+      "ImageCode": "12TCBALF",
+      "Local": false,
+      "Name": "12\" Thin Chicken Bacon Alfredo Feast",
+      "Price": "17.99",
+      "ProductCode": "S_PIZCBA",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "222",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,M=1,K=1,D=1,E=1,Cp=1,Xf=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "14TCBALF": {
+      "Code": "14TCBALF",
+      "FlavorCode": "THIN",
+      "ImageCode": "14TCBALF",
+      "Local": false,
+      "Name": "14\" Thin Chicken Bacon Alfredo Feast",
+      "Price": "20.99",
+      "ProductCode": "S_PIZCBA",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "291",
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,M=1,K=1,D=1,E=1,Cp=1,Xf=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "P10IGFCBRA": {
+      "Code": "P10IGFCBRA",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFCBRA",
+      "Local": false,
+      "Name": "10\" Gluten-Free Crust Chicken Bacon Ranch Feast",
+      "Price": "14.99",
+      "ProductCode": "S_PIZCBR",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "188",
+        "DefaultSides": "",
+        "DefaultToppings": "Rd=1,C=1,G=1,K=1,D=1,T=1,E=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10TCBRAN": {
+      "Code": "10TCBRAN",
+      "FlavorCode": "THIN",
+      "ImageCode": "10TCBRAN",
+      "Local": true,
+      "Name": "10\" Thin Chicken Bacon Ranch Feast",
+      "Price": "14.99",
+      "ProductCode": "S_PIZCBR",
+      "SizeCode": "10",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/6 pizza",
+        "Cals": "185",
+        "DefaultSides": "",
+        "DefaultToppings": "Rd=1,C=1,G=1,K=1,D=1,T=1,E=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "P12PANCBRA": {
+      "Code": "P12PANCBRA",
+      "FlavorCode": "NPAN",
+      "ImageCode": "P12PANCBRA",
+      "Local": false,
+      "Name": "12\" Handmade Pan Chicken Bacon Ranch Feast",
+      "Price": "17.99",
+      "ProductCode": "S_PIZCBR",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "195",
+        "DefaultSides": "",
+        "DefaultToppings": "Rd=1,C=1,G=1,K=1,D=1,T=1,E=1"
+      },
+      "AllowedCookingInstructions": "WD,NB,LD,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12TCBRAN": {
+      "Code": "12TCBRAN",
+      "FlavorCode": "THIN",
+      "ImageCode": "12TCBRAN",
+      "Local": false,
+      "Name": "12\" Thin Chicken Bacon Ranch Feast",
+      "Price": "17.99",
+      "ProductCode": "S_PIZCBR",
+      "SizeCode": "12",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "195",
+        "DefaultSides": "",
+        "DefaultToppings": "Rd=1,C=1,G=1,K=1,D=1,T=1,E=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "14TCBRAN": {
+      "Code": "14TCBRAN",
+      "FlavorCode": "THIN",
+      "ImageCode": "14TCBRAN",
+      "Local": false,
+      "Name": "14\" Thin Chicken Bacon Ranch Feast",
+      "Price": "20.99",
+      "ProductCode": "S_PIZCBR",
+      "SizeCode": "14",
+      "Tags": {
+        "Feast": true,
+        "ServingSize": "1/8 pizza",
+        "Cals": "261",
+        "DefaultSides": "",
+        "DefaultToppings": "Rd=1,C=1,G=1,K=1,D=1,T=1,E=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "10SCPACVEG": {
+      "Code": "10SCPACVEG",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "10SCPACVEG",
+      "Local": false,
+      "Name": "10\" Hand Tossed Pacific Veggie Pizza",
+      "Price": "14.99",
+      "ProductCode": "S_PIZPV",
+      "SizeCode": "10",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,M=1,T=1,R=1,Fe=1,Cp=1,Rp=1,Sp=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10TPACVEG": {
+      "Code": "10TPACVEG",
+      "FlavorCode": "THIN",
+      "ImageCode": "10TPACVEG",
+      "Local": true,
+      "Name": "10\" Thin Pacific Veggie Pizza",
+      "Price": "14.99",
+      "ProductCode": "S_PIZPV",
+      "SizeCode": "10",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,M=1,T=1,R=1,Fe=1,Cp=1,Rp=1,Sp=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "P10IGFPAV": {
+      "Code": "P10IGFPAV",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFPAV",
+      "Local": false,
+      "Name": "10\" Gluten-Free Crust Pacific Veggie Pizza",
+      "Price": "12.99",
+      "ProductCode": "S_PIZPV",
+      "SizeCode": "10",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,M=1,T=1,R=1,Fe=1,Cp=1,Rp=1,Sp=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12SCPACVEG": {
+      "Code": "12SCPACVEG",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "12SCPACVEG",
+      "Local": false,
+      "Name": "12\" Hand Tossed Pacific Veggie Pizza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZPV",
+      "SizeCode": "12",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,M=1,T=1,R=1,Fe=1,Cp=1,Rp=1,Sp=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12TPACVEG": {
+      "Code": "12TPACVEG",
+      "FlavorCode": "THIN",
+      "ImageCode": "12TPACVEG",
+      "Local": false,
+      "Name": "12\" Thin Pacific Veggie Pizza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZPV",
+      "SizeCode": "12",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,M=1,T=1,R=1,Fe=1,Cp=1,Rp=1,Sp=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "14SCPACVEG": {
+      "Code": "14SCPACVEG",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14SCPACVEG",
+      "Local": false,
+      "Name": "14\" Hand Tossed Pacific Veggie Pizza",
+      "Price": "20.99",
+      "ProductCode": "S_PIZPV",
+      "SizeCode": "14",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,M=1,T=1,R=1,Fe=1,Cp=1,Rp=1,Sp=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14TPACVEG": {
+      "Code": "14TPACVEG",
+      "FlavorCode": "THIN",
+      "ImageCode": "14TPACVEG",
+      "Local": false,
+      "Name": "14\" Thin Pacific Veggie Pizza",
+      "Price": "20.99",
+      "ProductCode": "S_PIZPV",
+      "SizeCode": "14",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,M=1,T=1,R=1,Fe=1,Cp=1,Rp=1,Sp=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "16SCPACVEG": {
+      "Code": "16SCPACVEG",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCPACVEG",
+      "Local": false,
+      "Name": "16\" Hand Tossed Pacific Veggie Pizza",
+      "Price": "23.99",
+      "ProductCode": "S_PIZPV",
+      "SizeCode": "16",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "X=1,C=1,O=1,M=1,T=1,R=1,Fe=1,Cp=1,Rp=1,Sp=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10SCSPNFET": {
+      "Code": "10SCSPNFET",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "10SCSPNFET",
+      "Local": false,
+      "Name": "10\" Hand Tossed Spinach & Feta Pizza",
+      "Price": "14.99",
+      "ProductCode": "S_PIZSF",
+      "SizeCode": "10",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,Fe=1,Cp=1,Xf=1,Sp=1,Pa=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "10TSPNFET": {
+      "Code": "10TSPNFET",
+      "FlavorCode": "THIN",
+      "ImageCode": "10TSPNFET",
+      "Local": true,
+      "Name": "10\" Thin Spinach & Feta Pizza",
+      "Price": "14.99",
+      "ProductCode": "S_PIZSF",
+      "SizeCode": "10",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,Fe=1,Cp=1,Xf=1,Sp=1,Pa=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "P10IGFSF": {
+      "Code": "P10IGFSF",
+      "FlavorCode": "GLUTENF",
+      "ImageCode": "P10IGFSF",
+      "Local": false,
+      "Name": "10\" Gluten-Free Spinach & Feta Pizza",
+      "Price": "12.99",
+      "ProductCode": "S_PIZSF",
+      "SizeCode": "10",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,Fe=1,Cp=1,Xf=1,Sp=1,Pa=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12SCSPNFET": {
+      "Code": "12SCSPNFET",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "12SCSPNFET",
+      "Local": false,
+      "Name": "12\" Hand Tossed Spinach & Feta Pizza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZSF",
+      "SizeCode": "12",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,Fe=1,Cp=1,Xf=1,Sp=1,Pa=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "12TSPNFET": {
+      "Code": "12TSPNFET",
+      "FlavorCode": "THIN",
+      "ImageCode": "12TSPNFET",
+      "Local": false,
+      "Name": "12\" Thin Spinach & Feta Pizza",
+      "Price": "17.99",
+      "ProductCode": "S_PIZSF",
+      "SizeCode": "12",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,Fe=1,Cp=1,Xf=1,Sp=1,Pa=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "14SCSPNFET": {
+      "Code": "14SCSPNFET",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "14SCSPNFET",
+      "Local": false,
+      "Name": "14\" Hand Tossed Spinach & Feta Pizza",
+      "Price": "20.99",
+      "ProductCode": "S_PIZSF",
+      "SizeCode": "14",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,Fe=1,Cp=1,Xf=1,Sp=1,Pa=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "14TSPNFET": {
+      "Code": "14TSPNFET",
+      "FlavorCode": "THIN",
+      "ImageCode": "14TSPNFET",
+      "Local": false,
+      "Name": "14\" Thin Spinach & Feta Pizza",
+      "Price": "20.99",
+      "ProductCode": "S_PIZSF",
+      "SizeCode": "14",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,Fe=1,Cp=1,Xf=1,Sp=1,Pa=1"
+      },
+      "AllowedCookingInstructions": "LD,NB,PIECT,SQCT,UNCT,OREG,NOOREG",
+      "DefaultCookingInstructions": "NB,SQCT,OREG",
+      "Prepared": true
+    },
+    "16SCSPNFET": {
+      "Code": "16SCSPNFET",
+      "FlavorCode": "HANDTOSS",
+      "ImageCode": "16SCSPNFET",
+      "Local": false,
+      "Name": "16\" Hand Tossed Spinach & Feta Pizza",
+      "Price": "23.99",
+      "ProductCode": "S_PIZSF",
+      "SizeCode": "16",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": "C=1,O=1,Fe=1,Cp=1,Xf=1,Sp=1,Pa=1"
+      },
+      "AllowedCookingInstructions": "WD,LD,NB,PIECT,SQCT,UNCT",
+      "DefaultCookingInstructions": "NB,PIECT",
+      "Prepared": true
+    },
+    "RANCH": {
+      "Code": "RANCH",
+      "FlavorCode": "",
+      "ImageCode": "RANCH",
+      "Local": false,
+      "Name": "Ranch Cup",
+      "Price": "0.99",
+      "ProductCode": "F_SIDRAN",
+      "SizeCode": "",
+      "Tags": {
+        "BONELESS": true,
+        "BONEIN": true,
+        "ServingSize": "1 Cup",
+        "Cals": "197",
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "GARBUTTER": {
+      "Code": "GARBUTTER",
+      "FlavorCode": "",
+      "ImageCode": "GARBUTTER",
+      "Local": false,
+      "Name": "Roasted Garlic Dipping Sauce",
+      "Price": "0.99",
+      "ProductCode": "F_SIDGAR",
+      "SizeCode": "",
+      "Tags": {
+        "ServingSize": "1 Cup",
+        "Cals": "160",
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "HOTDCUP": {
+      "Code": "HOTDCUP",
+      "FlavorCode": "",
+      "ImageCode": "HOTDCUP",
+      "Local": false,
+      "Name": "Hot Dip Cup",
+      "Price": "0.99",
+      "ProductCode": "F_HOTDCUP",
+      "SizeCode": "",
+      "Tags": {
+        "BONELESS": true,
+        "ServingSize": "1 Cup",
+        "Cals": "50",
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "ICING": {
+      "Code": "ICING",
+      "FlavorCode": "",
+      "ImageCode": "ICING",
+      "Local": false,
+      "Name": "Icing Cup",
+      "Price": "0.99",
+      "ProductCode": "F_SIDICE",
+      "SizeCode": "",
+      "Tags": {
+        "ServingSize": "1 Cup",
+        "Cals": "250",
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "CHDRHABA": {
+      "Code": "CHDRHABA",
+      "FlavorCode": "",
+      "ImageCode": "CHDRHABA",
+      "Local": false,
+      "Name": "Cheddar Habanero Dip Cup",
+      "Price": "0.99",
+      "ProductCode": "F_SIDCHB",
+      "SizeCode": "",
+      "Tags": {
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "MARINARA": {
+      "Code": "MARINARA",
+      "FlavorCode": "",
+      "ImageCode": "MARINARA",
+      "Local": false,
+      "Name": "Marinara Sauce Cup",
+      "Price": "0.99",
+      "ProductCode": "F_SIDMAR",
+      "SizeCode": "",
+      "Tags": {
+        "ServingSize": "1 Cup",
+        "Cals": "30",
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "CCOUPON": {
+      "Code": "CCOUPON",
+      "FlavorCode": "",
+      "ImageCode": "CCOUPON",
+      "Local": false,
+      "Name": "Side of Collect Coupon",
+      "Price": "0",
+      "ProductCode": "F_CCOUPON",
+      "SizeCode": "",
+      "Tags": {
+        "Invisible": true,
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "BBQCUP": {
+      "Code": "BBQCUP",
+      "FlavorCode": "",
+      "ImageCode": "BBQCUP",
+      "Local": false,
+      "Name": "BBQ Dip Cup",
+      "Price": "0.99",
+      "ProductCode": "F_BBQCUP",
+      "SizeCode": "",
+      "Tags": {
+        "BONELESS": true,
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": false
+    },
+    "10WHONEY": {
+      "Code": "10WHONEY",
+      "FlavorCode": "HNYGAR",
+      "ImageCode": "10WHONEY",
+      "Local": false,
+      "Name": "10-piece Honey Garlic Wings",
+      "Price": "8.99",
+      "ProductCode": "S_BONEIN",
+      "SizeCode": "10PCW",
+      "Tags": {
+        "DefaultSides": "SIDRAN=1",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "10WINGHOT": {
+      "Code": "10WINGHOT",
+      "FlavorCode": "HOTWINGS",
+      "ImageCode": "10WINGHOT",
+      "Local": false,
+      "Name": "10-piece Hot Wings",
+      "Price": "8.99",
+      "ProductCode": "S_BONEIN",
+      "SizeCode": "10PCW",
+      "Tags": {
+        "ServingSize": "1/10 Order",
+        "Cals": "102-110",
+        "DefaultSides": "SIDRAN=1",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "10WINGBBQ": {
+      "Code": "10WINGBBQ",
+      "FlavorCode": "BBQWINGS",
+      "ImageCode": "10WINGBBQ",
+      "Local": false,
+      "Name": "10-piece BBQ Wings",
+      "Price": "8.99",
+      "ProductCode": "S_BONEIN",
+      "SizeCode": "10PCW",
+      "Tags": {
+        "ServingSize": "1/10 Order",
+        "Cals": "102-110",
+        "DefaultSides": "SIDRAN=1",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "W08PBNLW": {
+      "Code": "W08PBNLW",
+      "FlavorCode": "BCHICK",
+      "ImageCode": "W08PBNLW",
+      "Local": false,
+      "Name": "8-Piece Boneless Chicken",
+      "Price": "8.99",
+      "ProductCode": "S_BONELESS",
+      "SizeCode": "8PCW",
+      "Tags": {
+        "ServingSize": "1/8 Order",
+        "Cals": "57",
+        "DefaultSides": "BBQCUP=1",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "10WINGSMH": {
+      "Code": "10WINGSMH",
+      "FlavorCode": "SMANG",
+      "ImageCode": "10WINGSMH",
+      "Local": false,
+      "Name": "10-piece Mango Habanero Wings",
+      "Price": "8.99",
+      "ProductCode": "S_BONEIN",
+      "SizeCode": "10PCW",
+      "Tags": {
+        "DefaultSides": "SIDRAN=1",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "CKRGCBT": {
+      "Code": "CKRGCBT",
+      "FlavorCode": "BACTOM",
+      "ImageCode": "CKRGCBT",
+      "Local": false,
+      "Name": "Specialty Chicken – Crispy Bacon & Tomato",
+      "Price": "8.99",
+      "ProductCode": "S_SCCBT",
+      "SizeCode": "12PCB",
+      "Tags": {
+        "SpecialtyChicken": true,
+        "ServingSize": "4 pieces",
+        "Cals": "220",
+        "DefaultSides": "",
+        "DefaultToppings": "K=1,T=1"
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "CKRGHTB": {
+      "Code": "CKRGHTB",
+      "FlavorCode": "HOTBUFF",
+      "ImageCode": "CKRGHTB",
+      "Local": false,
+      "Name": "Specialty Chicken – Classic Hot Buffalo",
+      "Price": "8.99",
+      "ProductCode": "S_SCCHB",
+      "SizeCode": "12PCB",
+      "Tags": {
+        "SpecialtyChicken": true,
+        "ServingSize": "4 pieces",
+        "Cals": "170",
+        "DefaultSides": "",
+        "DefaultToppings": ""
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "CKRGSJP": {
+      "Code": "CKRGSJP",
+      "FlavorCode": "SPCYJP",
+      "ImageCode": "CKRGSJP",
+      "Local": false,
+      "Name": "Specialty Chicken – Spicy Jalapeno - Pineapple",
+      "Price": "8.99",
+      "ProductCode": "S_SCSJP",
+      "SizeCode": "12PCB",
+      "Tags": {
+        "SpecialtyChicken": true,
+        "ServingSize": "4 pieces",
+        "Cals": "170",
+        "DefaultSides": "",
+        "DefaultToppings": "J=1,N=1"
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    },
+    "CKRGSBQ": {
+      "Code": "CKRGSBQ",
+      "FlavorCode": "BBQBAC",
+      "ImageCode": "CKRGSBQ",
+      "Local": false,
+      "Name": "Specialty Chicken – Sweet BBQ Bacon",
+      "Price": "8.99",
+      "ProductCode": "S_SCSBBQ",
+      "SizeCode": "12PCB",
+      "Tags": {
+        "SpecialtyChicken": true,
+        "ServingSize": "4 pieces",
+        "Cals": "180",
+        "DefaultSides": "",
+        "DefaultToppings": "K=1"
+      },
+      "AllowedCookingInstructions": "",
+      "DefaultCookingInstructions": "",
+      "Prepared": true
+    }
+  },
+  "PreconfiguredProducts": {
+    "16PARMBITE": {
+      "Code": "16PARMBITE",
+      "Description": "Oven baked, bite-size breadsticks sprinkled with Parmesan Asiago cheese & seasoned with garlic and more Parmesan. Perfectly delicious for sharing!",
+      "Name": "Parm Bread Bites",
+      "Size": "16-Piece",
+      "Options": "",
+      "ReferencedProductCode": "16PARMBITE",
+      "Tags": {}
+    },
+    "14SCREEN": {
+      "Code": "14SCREEN",
+      "Description": "Cheese made with 100% real mozzarella on top of our traditional, hand-engineered crust that is crispy on the outside and soft, light and fluffy on the inside.",
+      "Name": "Hand Tossed Large Cheese",
+      "Size": "Large (14\")",
+      "Options": "",
+      "ReferencedProductCode": "14SCREEN",
+      "Tags": {
+        "Banner": "vegetarian"
+      }
+    },
+    "P_14SCREEN": {
+      "Code": "P_14SCREEN",
+      "Description": "Pepperoni and cheese made with 100% real mozzarella on top of our traditional, hand-engineered crust that is crispy on the outside and soft, light and fluffy on the inside.",
+      "Name": "Hand Tossed Pepperoni",
+      "Size": "Large (14\")",
+      "Options": "P=1",
+      "ReferencedProductCode": "14SCREEN",
+      "Tags": {}
+    },
+    "S_14SCREEN": {
+      "Code": "S_14SCREEN",
+      "Description": "Sausage and cheese made with 100% real mozzarella on top of our traditional, hand-engineered crust that is crispy on the outside and soft, light and fluffy on the inside.",
+      "Name": "Hand Tossed Sausage",
+      "Size": "Large (14\")",
+      "Options": "S=1",
+      "ReferencedProductCode": "14SCREEN",
+      "Tags": {}
+    },
+    "PS_14SCREEN": {
+      "Code": "PS_14SCREEN",
+      "Description": "Pepperoni, sausage and cheese made with 100% real mozzarella on top of our traditional, hand-engineered crust that is crispy on the outside and soft, light and fluffy on the inside.",
+      "Name": "Hand Tossed Pepperoni & Sausage",
+      "Size": "Large (14\")",
+      "Options": "P=1,S=1",
+      "ReferencedProductCode": "14SCREEN",
+      "Tags": {}
+    },
+    "HN_14SCREEN": {
+      "Code": "HN_14SCREEN",
+      "Description": "Sliced ham, pineapple and cheese made with 100% real mozzarella on top of our traditional, hand-engineered crust that is crispy on the outside and soft, light and fluffy on the inside.",
+      "Name": "Hand Tossed Ham & Pineapple",
+      "Size": "Large (14\")",
+      "Options": "H=1,N=1",
+      "ReferencedProductCode": "14SCREEN",
+      "Tags": {}
+    },
+    "10WINGHOT": {
+      "Code": "10WINGHOT",
+      "Description": "Marinated and oven-baked and then sauced with Hot Sauce. Comes with 1 dipping cup.",
+      "Name": "Hot Wings",
+      "Size": "10 Piece",
+      "Options": "",
+      "ReferencedProductCode": "10WINGHOT",
+      "Tags": {}
+    },
+    "PM_14SCREEN": {
+      "Code": "PM_14SCREEN",
+      "Description": "Pepperoni, fresh mushrooms, and cheese made with 100% real mozzarella on top of our traditional, hand-engineered crust that is crispy on the outside and soft, light and fluffy on the inside.",
+      "Name": "Hand Tossed Pepperoni & Mushroom",
+      "Size": "Large (14\")",
+      "Options": "P=1,M=1",
+      "ReferencedProductCode": "14SCREEN",
+      "Tags": {}
+    },
+    "10WINGBBQ": {
+      "Code": "10WINGBBQ",
+      "Description": "Marinated and oven-baked and then sauced with BBQ Sauce. Comes with 1 dipping cup.",
+      "Name": "BBQ Wings",
+      "Size": "10 Piece",
+      "Options": "",
+      "ReferencedProductCode": "10WINGBBQ",
+      "Tags": {}
+    },
+    "P12IPAZA": {
+      "Code": "P12IPAZA",
+      "Description": "Two layers of cheese and a crust that bakes up golden and crispy with a buttery taste.",
+      "Name": "Medium Cheese Pan",
+      "Size": "Medium (12\")",
+      "Options": "",
+      "ReferencedProductCode": "P12IPAZA",
+      "Tags": {
+        "Banner": "vegetarian"
+      }
+    },
+    "P_P12IPAZA": {
+      "Code": "P_P12IPAZA",
+      "Description": "Two layers of cheese, Pepperoni to the edge, and a crust that bakes up golden and crispy with a buttery taste.",
+      "Name": "Medium Pepperoni Pan",
+      "Size": "Medium (12\")",
+      "Options": "P=1",
+      "ReferencedProductCode": "P12IPAZA",
+      "Tags": {}
+    },
+    "CINNASTIX8": {
+      "Code": "CINNASTIX8",
+      "Description": "Oven baked breadsticks sprinkled with cinnamon and sugar. Served with a side of sweet icing.",
+      "Name": "Cinna Stix®",
+      "Size": "8-Piece",
+      "Options": "",
+      "ReferencedProductCode": "CINNASTIX8",
+      "Tags": {}
+    },
+    "P_P10IGFZA": {
+      "Code": "P_P10IGFZA",
+      "Description": "Domino's pepperoni pizza made on a savory Gluten Free Crust.",
+      "Name": "Small Gluten Free Crust Pepperoni",
+      "Size": "Small (10\")",
+      "Options": "P=1",
+      "ReferencedProductCode": "P10IGFZA",
+      "Tags": {
+        "Banner": "glutenFree"
+      }
+    },
+    "14SCEXTRAV": {
+      "Code": "14SCEXTRAV",
+      "Description": "Loads of pepperoni, ham, Italian sausage, beef, onions, green peppers, mushrooms and black olives topped with extra cheese made with 100% real mozzarella.",
+      "Name": "Hand Tossed ExtravaganZZa",
+      "Size": "Large (14\")",
+      "Options": "",
+      "ReferencedProductCode": "14SCEXTRAV",
+      "Tags": {}
+    },
+    "2LCOKE": {
+      "Code": "2LCOKE",
+      "Description": "The authentic cola sensation that is a refreshing part of sharing life's enjoyable moments.",
+      "Name": "Coke®",
+      "Size": "2 Litre",
+      "Options": "",
+      "ReferencedProductCode": "2LCOKE",
+      "Tags": {}
+    },
+    "2LDCOKE": {
+      "Code": "2LDCOKE",
+      "Description": "Beautifully balanced adult cola taste in a no calorie beverage.",
+      "Name": "Diet Coke®",
+      "Size": "2 Litre",
+      "Options": "",
+      "ReferencedProductCode": "2LDCOKE",
+      "Tags": {}
+    },
+    "XC_14SCREEN": {
+      "Code": "XC_14SCREEN",
+      "Description": "",
+      "Name": "Large (14\") Hand Tossed Pizza",
+      "Size": "Large (14\")",
+      "Options": "X=1,C=1",
+      "ReferencedProductCode": "14SCREEN",
+      "Tags": {}
+    },
+    "PXC_14SCREEN": {
+      "Code": "PXC_14SCREEN",
+      "Description": "",
+      "Name": "Large (14\") Hand Tossed Pizza Whole: Pepperoni",
+      "Size": "Large (14\")",
+      "Options": "P=1,X=1,C=1",
+      "ReferencedProductCode": "14SCREEN",
+      "Tags": {}
+    },
+    "HNXC_12SCREEN": {
+      "Code": "HNXC_12SCREEN",
+      "Description": "",
+      "Name": "Medium (12\") Hand Tossed Pizza Whole: Ham, Pineapple",
+      "Size": "Medium (12\")",
+      "Options": "H=1,N=1,X=1,C=1",
+      "ReferencedProductCode": "12SCREEN",
+      "Tags": {}
+    },
+    "MPXC_12SCREEN": {
+      "Code": "MPXC_12SCREEN",
+      "Description": "",
+      "Name": "Medium (12\") Hand Tossed Pizza Whole : Mushrooms, Pepperoni",
+      "Size": "Medium (12\")",
+      "Options": "M=1,P=1,X=1,C=1",
+      "ReferencedProductCode": "12SCREEN",
+      "Tags": {}
+    },
+    "B1PCLAVA": {
+      "Code": "B1PCLAVA",
+      "Description": "",
+      "Name": "Chocolate Lava Crunch Cake",
+      "Size": "1-Piece",
+      "Options": "",
+      "ReferencedProductCode": "B1PCLAVA",
+      "Tags": {}
+    }
+  },
+  "ShortProductDescriptions": {},
+  "CouponTiers": {
+    "MultiplePizza": {
+      "Code": "MultiplePizza",
+      "Coupons": {
+        "8740": {
+          "Code": "8740",
+          "CouponTierThreshold": 4,
+          "CouponTierPercentOff": 10,
+          "Name": "10% off all pizzas",
+          "Description": "Group order Discount: 10% off any pizza at menu price. Online only when you order 4+ pizzas",
+          "ServiceMethod": ""
+        },
+        "8741": {
+          "Code": "8741",
+          "CouponTierThreshold": 7,
+          "CouponTierPercentOff": 15,
+          "Name": "15% off all pizzas",
+          "Description": "Group order Discount: 15% off any pizza at menu price. Online only when you order 7+ pizzas",
+          "ServiceMethod": ""
+        },
+        "8742": {
+          "Code": "8742",
+          "CouponTierThreshold": 10,
+          "CouponTierPercentOff": 20,
+          "Name": "20% off all pizzas",
+          "Description": "Group Order Discount: 20% off any pizza at menu price. Online Only when you order 10+ pizzas",
+          "ServiceMethod": ""
+        }
+      }
+    }
+  },
+  "UnsupportedProducts": {
+    "_CO TCHW": {
+      "PulseCode": "_CO TCHW",
+      "Description": "10\" C/O TC Hawaiian"
+    },
+    "_12 COMF": {
+      "PulseCode": "_12 COMF",
+      "Description": "10\" C/O HT Meatzza"
+    },
+    "_CO TCBC": {
+      "PulseCode": "_CO TCBC",
+      "Description": "10\" C/O TC BBQ Chicken "
+    },
+    "_12 COPF": {
+      "PulseCode": "_12 COPF",
+      "Description": "10\" C/O HT Pepperoni Feast"
+    },
+    "_CO TCPF": {
+      "PulseCode": "_CO TCPF",
+      "Description": "10\" C/O TC Pepperoni Feast"
+    },
+    "PINPASBA": {
+      "PulseCode": "PINPASBA",
+      "Description": "Build Your Own Pasta"
+    },
+    "_CO TCZZ": {
+      "PulseCode": "_CO TCZZ",
+      "Description": "10\" C/O TC Extravaganzza"
+    },
+    "_CO TCDX": {
+      "PulseCode": "_CO TCDX",
+      "Description": "10\" C/O TC Deluxe"
+    },
+    "CCARD": {
+      "PulseCode": "CCARD",
+      "Description": "-- Credit Card"
+    },
+    "10TCDND": {
+      "PulseCode": "10TCDND",
+      "Description": "10\" TC Canadian Del"
+    },
+    "_CO 12 DX": {
+      "PulseCode": "_CO 12 DX",
+      "Description": "10\" C/O HT Deluxe"
+    },
+    "_12 CO VF": {
+      "PulseCode": "_12 CO VF",
+      "Description": "10\" C/O HT Veggie Feast"
+    },
+    "15WGPIZZA": {
+      "PulseCode": "15WGPIZZA",
+      "Description": "School HT WG SCHOOL"
+    },
+    "_12 CO CF": {
+      "PulseCode": "_12 CO CF",
+      "Description": "10\" C/O HT Canadian"
+    },
+    "INTERAC": {
+      "PulseCode": "INTERAC",
+      "Description": "-- Debit Card"
+    },
+    "_CO TCBP": {
+      "PulseCode": "_CO TCBP",
+      "Description": "10\" C/O TC Pizza"
+    },
+    "_CO TCCF": {
+      "PulseCode": "_CO TCCF",
+      "Description": "10\" C/O TC Canadian"
+    },
+    "_COTCPS": {
+      "PulseCode": "_COTCPS",
+      "Description": "10\" C/O TC Philly Steak"
+    },
+    "_CO TCMF": {
+      "PulseCode": "_CO TCMF",
+      "Description": "10\" C/O TC Meatzza"
+    },
+    "PINPASBM": {
+      "PulseCode": "PINPASBM",
+      "Description": "Build Your Own Pasta"
+    },
+    "_COHTPS": {
+      "PulseCode": "_COHTPS",
+      "Description": "10\" C/O HT Philly Steak"
+    },
+    "10TCBBQD": {
+      "PulseCode": "10TCBBQD",
+      "Description": "10\" TC BBQ Del"
+    },
+    "_CO 12": {
+      "PulseCode": "_CO 12",
+      "Description": "10\" C/O HT Pizza"
+    },
+    "_12 COHW": {
+      "PulseCode": "_12 COHW",
+      "Description": "10\" C/O HT Hawaiian"
+    },
+    "_CO TCVF": {
+      "PulseCode": "_CO TCVF",
+      "Description": "10\" C/O TC Veggie Feast"
+    },
+    "_12 COZZ": {
+      "PulseCode": "_12 COZZ",
+      "Description": "10\" C/O HT Extravaganzza"
+    },
+    "_CO 12BC": {
+      "PulseCode": "_CO 12BC",
+      "Description": "10\" C/O HT BBQ Chicken "
+    }
+  },
+  "UnsupportedOptions": {
+    "#None#": {
+      "PulseCode": "#None#",
+      "Description": "DUMMY TOPPING"
+    },
+    "Fe": {
+      "PulseCode": "Fe",
+      "Description": "Feta"
+    }
+  },
+  "CookingInstructions": {
+    "SQCT": {
+      "Code": "SQCT",
+      "Name": "Square Cut",
+      "Description": "",
+      "Group": "CUT"
+    },
+    "WD": {
+      "Code": "WD",
+      "Name": "Well Done",
+      "Description": "",
+      "Group": "BAKE"
+    },
+    "NB": {
+      "Code": "NB",
+      "Name": "Normal Bake",
+      "Description": "",
+      "Group": "BAKE"
+    },
+    "UNCT": {
+      "Code": "UNCT",
+      "Name": "Uncut",
+      "Description": "",
+      "Group": "CUT"
+    },
+    "OREG": {
+      "Code": "OREG",
+      "Name": "With Oregano",
+      "Description": "",
+      "Group": "OREGANO"
+    },
+    "PIECT": {
+      "Code": "PIECT",
+      "Name": "Pie Cut",
+      "Description": "",
+      "Group": "CUT"
+    },
+    "LD": {
+      "Code": "LD",
+      "Name": "Lightly Done",
+      "Description": "",
+      "Group": "BAKE"
+    },
+    "NOOREG": {
+      "Code": "NOOREG",
+      "Name": "Without Oregano",
+      "Description": "",
+      "Group": "OREGANO"
+    }
+  },
+  "CookingInstructionGroups": {
+    "BAKE": {
+      "Code": "BAKE",
+      "Name": "Bake",
+      "Tags": {}
+    },
+    "CUT": {
+      "Code": "CUT",
+      "Name": "Cut",
+      "Tags": {
+        "MaxOptions": "1"
+      }
+    },
+    "OREGANO": {
+      "Code": "OREGANO",
+      "Name": "Oregano",
+      "Tags": {
+        "MaxOptions": "1"
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+exports.toppings = {
+  "Pizza Sauce": "X",
+  "BBQ Sauce": "Q",
+  "Alfredo Pasta Sauce": "Xf",
+  "Ranch Dressing": "Rd",
+  "Garlic Parmesan Sauce": "Xw",
+  "Cheese": "C",
+  "Pepperoni": "P",
+  "Brooklyn Pepperoni": "Xp",
+  "Sausage": "S",
+  "Beef": "B",
+  "Ham": "H",
+  "Bacon": "K",
+  "Chicken": "D",
+  "Philly Steak": "St",
+  "Anchovy": "A",
+  "American Cheese": "Ca",
+  "Cheddar": "E",
+  "Feta": "Fe",
+  "Parmesan Asiago": "Pa",
+  "Provolone": "Cp",
+  "Hot Banana Peppers": "Z",
+  "Black Olives": "R",
+  "Green Olives": "V",
+  "Green Pepper": "G",
+  "Mushroom": "M",
+  "Pineapple": "N",
+  "Onion": "O",
+  "Tomatoes": "T",
+  "Jalapeno Peppers": "J",
+  "Spinach": "Sp",
+  "Roasted Red Peppers": "Rp"
+};
+
+exports.pizzaCodes = [
+  "10SCREEN",
+  "10THIN",
+  "12SCREEN",
+  "12THIN",
+  "14SCREEN",
+  "14THIN",
+  "16SCREEN",
+];
+
+//  _(temp).mapKeys('Name').mapValues('Code').value()

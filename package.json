@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "dominos-canada": "0.0.1",
+    "lodash": "^4.17.4"
+  },
+  "scripts": {
+    "start": "node test.js"
+  }
+}
