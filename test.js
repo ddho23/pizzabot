@@ -19,8 +19,14 @@ const customer = require('./src/data/customer').customer;
 
 const cloudFn = require('./index.js');
 
-const req = {
-  body: require('./samples/request.json'),
+let req = {
+  body: require('./testrequests/requestPrice'),
 };
 
-cloudFn.requestPrice(req, { send: util.prettyPrint });
+//cloudFn.pizzaWebhook(req, { send: util.prettyPrint });
+
+req = {
+  body: require('./testrequests/orderConfirm'),
+};
+
+cloudFn.pizzaWebhook(req, { send: util.prettyPrint });

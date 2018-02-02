@@ -1,51 +1,53 @@
 {
-  "id": "2a4a6ca7-01e0-47a5-b5d1-c09f396c3d9e",
-  "timestamp": "2018-02-02T02:46:12.739Z",
+  "id": "86d01d5b-a224-4880-85f3-ff51470f95c9",
+  "timestamp": "2018-02-02T18:26:38.64Z",
   "lang": "en",
   "result": {
     "source": "agent",
-    "resolvedQuery": "how much is a large cheese pizza?",
-    "action": "checkPrice",
+    "resolvedQuery": "two lg cheese pizzas",
+    "action": "RequestPrice",
     "actionIncomplete": false,
     "parameters": {
       "size": "Large",
       "toppings": [
         "Cheese"
       ],
-      "crust": ""
+      "crust": "Regular"
     },
     "contexts": [
       {
         "name": "requestprice-followup",
         "parameters": {
-          "size.original": "large",
+          "size.original": "lg",
           "toppings.original": "cheese",
           "size": "Large",
           "crust.original": "",
           "toppings": [
             "Cheese"
           ],
-          "crust": ""
+          "crust": "Regular"
         },
         "lifespan": 2
       }
     ],
     "metadata": {
       "intentId": "94cfe480-49f9-4459-bd9d-4cb9262ee0d8",
-      "webhookUsed": "false",
+      "webhookUsed": "true",
       "webhookForSlotFillingUsed": "false",
+      "webhookResponseTime": 1008,
       "intentName": "RequestPrice"
     },
     "fulfillment": {
-      "speech": "Calculating the price now!",
+      "speech": "The pizza order will be $19.19, delivering to 25 Union St. The wait time is around 25-35 minutes.  Do you want to place the order now?",
+      "displayText": "The pizza order will be $19.19, delivering to 25 Union St. The wait time is around 25-35 minutes.  Do you want to place the order now?",
       "messages": [
         {
           "type": 0,
-          "speech": "Calculating the price now!"
+          "speech": "The pizza order will be $19.19, delivering to 25 Union St. The wait time is around 25-35 minutes.  Do you want to place the order now?"
         }
       ]
     },
-    "score": 0.6499999761581421
+    "score": 0.7300000190734863
   },
   "status": {
     "code": 200,

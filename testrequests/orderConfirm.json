@@ -1,0 +1,57 @@
+{
+  "id": "275a58b0-14b2-4e38-b160-dc2b9b6fca62",
+  "timestamp": "2018-02-02T18:19:53.857Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "yes",
+    "action": "RequestPrice.OrderConfirm",
+    "actionIncomplete": false,
+    "parameters": {},
+    "contexts": [
+      {
+        "name": "requestprice-followup",
+        "parameters": {
+          "size.original": "large",
+          "toppings.original": "pepperoni",
+          "size": "Large",
+          "crust.original": "thin",
+          "toppings": [
+            "Pepperoni"
+          ],
+          "crust": "Thin"
+        },
+        "lifespan": 1
+      }
+    ],
+    "metadata": {
+      "intentId": "0ed8d9f3-002a-40c5-891e-d3435638fc6a",
+      "webhookUsed": "true",
+      "webhookForSlotFillingUsed": "false",
+      "webhookResponseTime": 93,
+      "intentName": "RequestPrice - order confirm"
+    },
+    "fulfillment": {
+      "speech": "Ok sending your order now.",
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "textToSpeech": "Ok sending your order now."
+        },
+        {
+          "type": 0,
+          "speech": "Ok sending your order now."
+        }
+      ]
+    },
+    "score": 1
+  },
+  "status": {
+    "code": 206,
+    "errorType": "partial_content",
+    "errorDetails": "Webhook call failed. Error: 500 Internal Server Error",
+    "webhookTimedOut": false
+  },
+  "sessionId": "a5069b9d-831d-4bf2-8992-92eef00ec661"
+}

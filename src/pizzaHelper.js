@@ -59,7 +59,9 @@ exports.placeOrderAsync = function placeOrderAsync(order) {
     }
   ];
 
-  return { order: order };
+  const fakeResp = { result: { Order: order }}
+
+  return { data: extractRespData(fakeResp), order: order };
 
   /*
   //order.placeAsync()
@@ -118,7 +120,7 @@ function getSizeCode(size) {
     case 'XLarge':
       return '16';
     default:
-      throw new Error('Invalid Pizza Size ' + size);
+      throw new Error(`Invalid Pizza Size: [${size}]`);
   }
 }
 
