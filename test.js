@@ -26,7 +26,7 @@ let req = {
 //cloudFn.pizzaWebhook(req, { send: util.prettyPrint });
 
 req = {
-  body: require('./testrequests/orderConfirm'),
+  body: require('./testrequests/orderConfirmPhone'),
 };
 
 cloudFn.pizzaWebhook(req, { send: util.prettyPrint });

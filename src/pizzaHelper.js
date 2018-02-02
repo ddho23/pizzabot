@@ -37,6 +37,34 @@ exports.getPriceAsync = function getPriceAsync({ items = [], storeID, customer =
     });
 }
 
+exports.placeOrderAsync = function placeOrderAsync(order) {
+  order.Payments = [
+    {
+      Type: 'DoorCredit',
+      Amount: order.Amounts.Payments,
+    }
+  ];
+
+  // Mock response instead of actually placing the order
+  const fakeResp = { result: { Order: order }}
+
+  return { data: extractRespData(fakeResp), order: order };
+
+  /*
+  // uncomment to enable real ordering
+  return order.placeAsync()
+    .then((resp) => {
+      const data = extractRespData(resp);
+
+      return {
+        data,
+        order,
+        raw: resp
+      };
+    })
+  */
+};
+
 exports.getPizzaItem = function getPizzaItem(pizzaOpts) {
   const { size, crust, toppings, quantity = 1 } = pizzaOpts;
   const toppingCodes = _(toppings)
@@ -50,32 +78,6 @@ exports.getPizzaItem = function getPizzaItem(pizzaOpts) {
     quantity: quantity || 1,
   });
 }
-
-exports.placeOrderAsync = function placeOrderAsync(order) {
-  order.Payments = [
-    {
-      Type: 'DoorCredit',
-      Amount: order.Amounts.Payments,
-    }
-  ];
-
-  const fakeResp = { result: { Order: order }}
-
-  return { data: extractRespData(fakeResp), order: order };
-
-  /*
-  //order.placeAsync()
-    .then((resp) => {
-      const data = extractRespData(resp);
-
-      return {
-        data,
-        order,
-        raw: resp
-      };
-    })
-  */
-};
 
 function extractRespData(resp) {
   const price = _(resp).get('result.Order.Amounts.Payment');
@@ -97,7 +99,9 @@ exports.findStoreAsync = function findStoreAsync(address) {
       address,
       'Delivery',
       (resp) => {
-        resolve(resp);
+        resolve({
+          data: _.chain(resp.result.Stores).first().get('AddressDescription').value(),
+        });
       }
     );
   });

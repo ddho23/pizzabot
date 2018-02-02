@@ -1,0 +1,44 @@
+{
+  "id": "d7c58643-a0a2-432a-add8-980ab3267bc4",
+  "timestamp": "2018-02-02T21:01:53.095Z",
+  "lang": "en",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "What is the closest store to K7L2N8?",
+    "action": "FindStore",
+    "actionIncomplete": false,
+    "parameters": {
+      "address": "K7L2N8"
+    },
+    "contexts": [],
+    "metadata": {
+      "intentId": "4c3f8ba9-8fff-47b0-9f8e-0af2dbf0597c",
+      "webhookUsed": "true",
+      "webhookForSlotFillingUsed": "false",
+      "webhookResponseTime": 2900,
+      "intentName": "Find a store"
+    },
+    "fulfillment": {
+      "speech": "Locating the closest dominos",
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "textToSpeech": "Locating the closest dominos"
+        },
+        {
+          "type": 0,
+          "speech": "Locating the closest dominos"
+        }
+      ]
+    },
+    "score": 1
+  },
+  "status": {
+    "code": 206,
+    "errorType": "partial_content",
+    "errorDetails": "Webhook call failed. Error: 500 Internal Server Error",
+    "webhookTimedOut": false
+  },
+  "sessionId": "a5069b9d-831d-4bf2-8992-92eef00ec661"
+}

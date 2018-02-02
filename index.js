@@ -25,7 +25,7 @@ const requestPrice = function requestPrice(req, res) {
   const result = getResult(req);
   const params = result.parameters;
   const { 
-    customer = data.customer,
+    customer = _.assign({}, data.customer),
     storeID = '10310',
   } = params;
 
@@ -40,47 +40,49 @@ const requestPrice = function requestPrice(req, res) {
     });
 };
 
-exports.requestPrice = requestPrice;
-
 const placeOrder = function placeOrder(req, res) {
   const result = getResult(req);
   const params = _.assign({}, _.first(result.contexts).parameters, result.parameters);
   const { 
     customer = data.customer,
-    storeID = '10310'
+    storeID = '10310',
+    phone,
   } = params;
 
+  customer.phone = phone;
+  
   const item = pizzaHelper.getPizzaItem(params);
-
+  
   pizzaHelper
-    .getPriceAsync({ items: [item], storeID, customer })
-    .tap(util.prettyPrint)
-    .then((resp) => pizzaHelper.placeOrderAsync(resp.order))
-    .tap(util.prettyPrint)
-    .then((orderResp) => {
-      res.send(
-        createOrderResponse(orderResp)
-      );
-    });
+  .getPriceAsync({ items: [item], storeID, customer })
+  .tap(util.prettyPrint)
+  .then((resp) => pizzaHelper.placeOrderAsync(resp.order))
+  .tap(util.prettyPrint)
+  .then((orderResp) => {
+    res.send(
+      createOrderResponse(orderResp)
+    );
+  });
 };
-
-exports.placeOrder = placeOrder;
 
 const findStore = function findStore(req, res) {
   try {
     const result = getResult(req);
-    const { address } = result;
+    const { address } = result.parameters;
 
     pizzaHelper.findStoreAsync(address)
       .then((resp) => {
-        res.send(createStoreResponse(resp));
+        res.send(createRawResponse(resp));
       });
   } catch (e) {
-    res.status(500).send({ error: e});
+    res.status(500).send({ error: e });
   }
 };
 
+exports.requestPrice = requestPrice;
+exports.placeOrder = placeOrder;
 exports.findStore = findStore;
+
 
 function getResult(req) {
   return req.body.result;
@@ -88,9 +90,9 @@ function getResult(req) {
 
 function createDialogResponse(resp) {
   const { data } = resp;
-  const priceDeliveryText = `The pizza order will be $${data.price}, delivering to ${data.address.Street}.`;
+  const priceDeliveryText = `The total price will be $${data.price}, delivering to ${data.address.Street}.`;
   const waitText = `The wait time is around ${data.waitTimeMins} minutes.`;
-  const actionText = ` Do you want to place the order now?`;
+  const actionText = ` Do you want to place the order?`;
   const responseText = `${priceDeliveryText} ${waitText} ${actionText}`;
   
   return {
@@ -101,10 +103,10 @@ function createDialogResponse(resp) {
 
 function createOrderResponse(resp) {
   const { data } = resp;
-  const priceDeliveryText = `The total is $${data.price}, delivering to ${data.address.Street}.`;
-  const waitText = `The order should arrive in ${data.waitTimeMins} minutes.`;
   const actionText = `Order sent!`;
-  const responseText = `${actionText} ${priceDeliveryText} ${waitText}`;
+  const phoneText = `The delivery driver call you at ${data.phone} on arrival.`;
+  const waitText = `The order should arrive in ${data.waitTimeMins} minutes.`;
+  const responseText = `${actionText} ${waitText} ${phoneText}`;
   
   return {
     speech: responseText,

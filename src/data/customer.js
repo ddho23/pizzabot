@@ -31,11 +31,11 @@ var addressToronto = {
 var torontoStoreID = '10518';
 
 const customer = {
-  firstName: 'D',
-  lastName: 'H',
+  firstName: 'Derek',
+  lastName: 'Ho',
   address: addressKingston,
   email: 'john@myemail.com',
-  phone: '',
+  phone: '1234567891',
 };
 
 exports.customer = customer;

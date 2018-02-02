@@ -1,0 +1,129 @@
+
+  "success": true,
+  "result": {
+    "Granularity": "ADDRESS",
+    "Address": {
+      "Street": "",
+      "StreetNumber": "",
+      "StreetName": "",
+      "UnitType": "",
+      "UnitNumber": "",
+      "City": "Kingston",
+      "Region": "ONTARIO",
+      "PostalCode": "K7L 2N8"
+    },
+    "AlternativeAddress": [],
+    "Stores": [
+      {
+        "StoreID": "10310",
+        "IsDeliveryStore": false,
+        "MinDistance": null,
+        "MaxDistance": null,
+        "Phone": "613-548-3730",
+        "AddressDescription": "561 Princess Street\nKingston, ON K7L1C8",
+        "HolidaysDescription": "",
+        "HoursDescription": "Su-Th 10:00am-3:00am\nFr-Sa 10:00am-4:00am",
+        "ServiceHoursDescription": {
+          "Carryout": "Su-Th 10:00am-3:00am\nFr-Sa 10:00am-4:00am",
+          "Delivery": "Su-Th 10:00am-3:00am\nFr-Sa 10:00am-4:00am"
+        },
+        "IsOnlineCapable": true,
+        "IsOnlineNow": true,
+        "IsNEONow": false,
+        "IsSpanish": false,
+        "LocationInfo": null,
+        "LanguageLocationInfo": null,
+        "AllowDeliveryOrders": true,
+        "AllowCarryoutOrders": true,
+        "IsOpen": true,
+        "ServiceIsOpen": {
+          "Carryout": true,
+          "Delivery": true
+        }
+      },
+      {
+        "StoreID": "10398",
+        "IsDeliveryStore": false,
+        "MinDistance": null,
+        "MaxDistance": null,
+        "Phone": "613-507-3730",
+        "AddressDescription": "1201 Division Street Unit G\nKingston, ON K7K5W4",
+        "HolidaysDescription": "",
+        "HoursDescription": "Su-Sa 11:00am-11:00pm",
+        "ServiceHoursDescription": {
+          "Carryout": "Su-Sa 11:00am-11:00pm",
+          "Delivery": "Su-Sa 11:00am-11:00pm"
+        },
+        "IsOnlineCapable": true,
+        "IsOnlineNow": true,
+        "IsNEONow": false,
+        "IsSpanish": false,
+        "LocationInfo": null,
+        "LanguageLocationInfo": null,
+        "AllowDeliveryOrders": true,
+        "AllowCarryoutOrders": true,
+        "IsOpen": true,
+        "ServiceIsOpen": {
+          "Carryout": true,
+          "Delivery": true
+        }
+      },
+      {
+        "StoreID": "10392",
+        "IsDeliveryStore": false,
+        "MinDistance": null,
+        "MaxDistance": null,
+        "Phone": "613-384-8552",
+        "AddressDescription": "795 Blackburn Mews\nKingston, ON K7P2N6",
+        "HolidaysDescription": "02/02 11:00am-11:00pm\n02/03 11:00am-11:00pm",
+        "HoursDescription": "Su-Sa 11:00am-11:00pm",
+        "ServiceHoursDescription": {
+          "Carryout": "Su-Sa 11:00am-11:00pm",
+          "Delivery": "Su-Sa 11:00am-11:00pm"
+        },
+        "IsOnlineCapable": true,
+        "IsOnlineNow": true,
+        "IsNEONow": false,
+        "IsSpanish": false,
+        "LocationInfo": null,
+        "LanguageLocationInfo": null,
+        "AllowDeliveryOrders": true,
+        "AllowCarryoutOrders": true,
+        "IsOpen": true,
+        "ServiceIsOpen": {
+          "Carryout": true,
+          "Delivery": true
+        }
+      },
+      {
+        "StoreID": "10396",
+        "IsDeliveryStore": false,
+        "MinDistance": null,
+        "MaxDistance": null,
+        "Phone": "613-308-9333",
+        "AddressDescription": "113 Richmond Blvd\nNapanee, ON K7R3Z8",
+        "HolidaysDescription": "",
+        "HoursDescription": "Su-Th 11:00am-10:00pm\nFr-Sa 11:00am-12:00am",
+        "ServiceHoursDescription": {
+          "Carryout": "Su-Th 11:00am-10:00pm\nFr-Sa 11:00am-12:00am",
+          "Delivery": "Su-Th 11:00am-10:00pm\nFr-Sa 11:00am-12:00am"
+        },
+        "IsOnlineCapable": true,
+        "IsOnlineNow": true,
+        "IsNEONow": false,
+        "IsSpanish": false,
+        "LocationInfo": null,
+        "LanguageLocationInfo": null,
+        "AllowDeliveryOrders": true,
+        "AllowCarryoutOrders": true,
+        "IsOpen": true,
+        "ServiceIsOpen": {
+          "Carryout": true,
+          "Delivery": true
+        }
+      }
+    ],
+    "Status": 0,
+    "Engine": "GSL"
+  }
+}
