@@ -1,11 +1,35 @@
 {
+  "name": "pizzabot",
+  "version": "0.0.2",
+  "description": "Web server functions for google assistant chatbot integration with Domino's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node e2e/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddho23/pizzabot"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Dominos",
+    "Domino's",
+    "Pizza",
+    "API",
+    "Google Assistant",
+    "Chatbot"
+  ],
+  "author": {
+    "name": "Derek Ho"
+  },
   "dependencies": {
     "bluebird": "^3.5.1",
     "dominos-canada": "0.0.1",
     "lodash": "^4.17.4"
-  },
-  "scripts": {
-    "start": "node test.js"
   },
   "devDependencies": {
     "chai": "^4.1.2",
