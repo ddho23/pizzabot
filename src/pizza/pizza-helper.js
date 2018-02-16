@@ -4,9 +4,9 @@ const _ = require('lodash');
 const pizzapi = require('dominos-canada');
 //const pizzapi = require('../../node-dominos-pizza-api/dominos-pizza-api');
 
-const customerData = require('./data/customer');
-const util = require('./util.js');
-const menuCodes = require('./data/menu-codes');
+const customerData = require('../data/customer');
+const util = require('../util/util.js');
+const menuCodes = require('../data/menu-codes');
 
 Promise.promisifyAll(
   pizzapi.Order.prototype,

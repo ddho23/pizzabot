@@ -4,8 +4,7 @@
   "description": "Web server functions for google assistant chatbot integration with Domino's API",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
-    "start": "node e2e/test.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",

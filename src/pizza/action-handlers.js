@@ -1,10 +1,9 @@
 const _ = require('lodash');
-const gaUtil = require('./ga-integration-util');
-const data = require('../src/data/customer');
+const gaUtil = require('../util/ga-integration-util');
+const data = require('../data/customer');
 
 const pizzaHelper = require('./pizza-helper');
-const util = require('./util');
-
+const util = require('../util/util');
 
 const requestPrice = function requestPrice(req, res) {
   const result = getResult(req);

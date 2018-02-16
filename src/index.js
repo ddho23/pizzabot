@@ -1,13 +1,14 @@
 const _ = require('lodash');
+const Promise = require('bluebird');
 
-const pizzaHelper = require('./src/pizza-helper');
-const util = require('./src/util');
-
-const actionHandlers = require('./src/action-handlers')
+const pizzaHelper = require('./pizza/pizza-helper');
+const util = require('./util/util');
+const actionHandlers = require('./pizza/action-handlers')
 
 exports.pizzaWebhook = function pizzaWebhook(req, res) {
   try {
-    const { action } = actionHandlers.getResult(req);
+    const params = actionHandlers.getResult(req);
+    const { action } = params;
 
     if (action === 'RequestPrice') {
       actionHandlers.requestPrice(req, res);
