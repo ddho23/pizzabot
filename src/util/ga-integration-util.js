@@ -37,4 +37,4 @@ function createRawResponse(resp) {
 
 exports.createDialogResponse = createDialogResponse;
 exports.createOrderResponse = createOrderResponse;
-exports.createOrderResponse = createRawResponse;
+exports.createRawResponse = createRawResponse;
