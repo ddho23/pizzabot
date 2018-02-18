@@ -19,8 +19,8 @@ const requestPrice = function requestPrice({ parameters }) {
     .tap(util.prettyPrint);
 };
 
-const placeOrder = function placeOrder({ contexts, parameters}) {
-  const combinedParams = _.assign({}, _.first(contexts).parameters, parameters);
+const placeOrder = function placeOrder({ outputContexts, parameters}) {
+  const combinedParams = _.assign({}, _.first(outputContexts).parameters, parameters);
   const { 
     customer = data.customer,
     storeID = '10310',
@@ -48,7 +48,7 @@ const findStore = function findStore({ parameters }) {
 
 
 const getResult = function getResult(req) {
-  return req.body.result;
+  return req.body.queryResult;
 }
 
 exports.requestPrice = requestPrice;

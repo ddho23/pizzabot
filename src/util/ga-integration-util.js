@@ -7,8 +7,8 @@ function createDialogResponse(resp) {
   const responseText = `${priceDeliveryText} ${waitText} ${actionText}`;
   
   return {
-    speech: responseText,
-    displayText: responseText,
+    fulfillmentText: responseText,
+    fulfillmentMessages: [ { textToSpeech: responseText }]
   };
 };
 
@@ -20,8 +20,8 @@ function createOrderResponse(resp) {
   const responseText = `${actionText} ${waitText} ${phoneText}`;
   
   return {
-    speech: responseText,
-    displayText: responseText,
+    fulfillmentText: responseText,
+    fulfillmentMessages: [ { textToSpeech: responseText } ]
   };
 };
 
@@ -30,8 +30,7 @@ function createRawResponse(resp) {
   const responseText = `${data}`;
 
   return {
-    speech: responseText,
-    displayText: responseText,
+    fulfillmentText: responseText
   };
 }
 

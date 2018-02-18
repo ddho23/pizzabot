@@ -1,0 +1,67 @@
+{
+  "responseId": "77720fb8-c383-4e6a-a101-b3ed4815adf3",
+  "queryResult": {
+    "queryText": "chicken",
+    "action": "RequestPrice",
+    "parameters": {
+      "crust": "Regular",
+      "size": "Large",
+      "quantity": "",
+      "toppings": [
+        "Chicken"
+      ]
+    },
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "Calculating the price now!",
+    "fulfillmentMessages": [
+      {
+        "platform": "ACTIONS_ON_GOOGLE",
+        "simpleResponses": {
+          "simpleResponses": [
+            {
+              "textToSpeech": "Calculating the price now!"
+            }
+          ]
+        }
+      },
+      {
+        "text": {
+          "text": [
+            "Calculating the price now!"
+          ]
+        }
+      }
+    ],
+    "outputContexts": [
+      {
+        "name": "projects/pizzabottest-demo/agent/sessions/6d865cb3-1383-4f42-b822-cd0d4730ef7f/contexts/requestprice-followup",
+        "lifespanCount": 2,
+        "parameters": {
+          "crust": "Regular",
+          "quantity.original": "",
+          "size": "Large",
+          "quantity": "",
+          "toppings": [
+            "Chicken"
+          ],
+          "toppings.original": "chicken",
+          "crust.original": "",
+          "size.original": "large"
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/pizzabottest-demo/agent/intents/94cfe480-49f9-4459-bd9d-4cb9262ee0d8",
+      "displayName": "RequestPrice"
+    },
+    "intentDetectionConfidence": 1,
+    "diagnosticInfo": {
+      "webhook_latency_ms": 1450
+    },
+    "languageCode": "en"
+  },
+  "webhookStatus": {
+    "code": 3,
+    "message": "Webhook call failed. Error: Failed to parse webhook JSON response: Cannot find field: text in message google.cloud.dialogflow.v2beta1.WebhookResponse."
+  }
+}
