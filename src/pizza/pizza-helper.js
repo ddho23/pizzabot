@@ -100,7 +100,7 @@ exports.findStoreAsync = function findStoreAsync(address) {
       'Delivery',
       (resp) => {
         resolve({
-          data: _.chain(resp.result.Stores).first().get('AddressDescription').value(),
+          data: _.chain(resp.result.Stores).first().value(),
         });
       }
     );

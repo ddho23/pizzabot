@@ -5,6 +5,8 @@ const data = require('../data/customer');
 const pizzaHelper = require('./pizza-helper');
 const util = require('../util/util');
 
+const geocodeUtil = require('../util/geocode-util');
+
 const requestPrice = function requestPrice({ parameters }) {
   const { 
     customer = _.assign({}, data.customer),
@@ -38,12 +40,27 @@ const placeOrder = function placeOrder({ contexts, parameters}) {
     .tap(util.prettyPrint);
 };
 
-const findStore = function findStore({ parameters }) {
-  const { address } = parameters;
+const findLocation = function findLocation() {
+  return gaUtil.createLocationPermissionResponse();
+};
 
-  return pizzaHelper
-    .findStoreAsync(address)
-    .then((resp) => createRawResponse(resp));
+const findStore = function findStore({ originalRequest }) {
+  const location = originalRequest.data.device.location;
+  const coords = _.get(originalRequest, 'data.device.location.coordinates');
+
+  if (coords) {
+    return geocodeUtil
+      .reverse({ lat: coords.latitude, lon: coords.longitude })
+      .then((resp) => {
+        const address = _.first(resp);
+
+        return pizzaHelper
+        .findStoreAsync(address)
+        .then((store) => gaUtil.createFoundStoreResponse(store));
+      });
+  } else {
+    throw 'No location coords';
+  }
 };
 
 
@@ -55,3 +72,4 @@ exports.requestPrice = requestPrice;
 exports.placeOrder = placeOrder;
 exports.findStore = findStore;
 exports.getResult = getResult;
+exports.findLocation = findLocation;

@@ -25,16 +25,46 @@ function createOrderResponse(resp) {
   };
 };
 
-function createRawResponse(resp) {
+function createFoundStoreResponse(resp) {
   const { data } = resp;
-  const responseText = `${data}`;
+  const responseText = `${data.addressDescription}`;
 
   return {
     speech: responseText,
     displayText: responseText,
+    followupEvent: {
+      name: 'RequestPrice',
+      data: {
+        storeID: data.id, 
+      },
+    }
   };
+}
+
+function createLocationPermissionResponse(resp) {
+  return {
+    speech: 'PLACEHOLDER',
+      data: {
+        google: {
+          expectUserResponse: true,
+          isSsml: false,
+          richResponse: {
+            items: [{ simpleResponse: { textToSpeech: 'PLACEHOLDER' } }],
+          },
+          systemIntent: {
+            intent: 'actions.intent.PERMISSION',
+            data: {
+              '@type': 'type.googleapis.com/google.actions.v2.PermissionValueSpec',
+              optContext: 'To deliver your order',
+              permissions: [ 'DEVICE_PRECISE_LOCATION' ]
+            }
+          }
+        }
+      }
+    };
 }
 
 exports.createDialogResponse = createDialogResponse;
 exports.createOrderResponse = createOrderResponse;
-exports.createRawResponse = createRawResponse;
+exports.createFoundStoreResponse = createFoundStoreResponse;
+exports.createLocationPermissionResponse = createLocationPermissionResponse;

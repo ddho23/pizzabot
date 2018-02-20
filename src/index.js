@@ -15,6 +15,8 @@ exports.pizzaWebhook = function pizzaWebhook(req, res) {
         return actionHandlers.requestPrice(result);
       } else if (action === 'RequestPrice.OrderConfirm') {
         return actionHandlers.placeOrder(result);
+      } else if (action == 'FindLocation') {
+        return actionHandlers.findLocation();
       } else if (action == 'FindStore') {
         return actionHandlers.findStore(result);
       }
