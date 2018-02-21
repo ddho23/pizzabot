@@ -7,11 +7,14 @@ const util = require('../util/util');
 
 const geocodeUtil = require('../util/geocode-util');
 
-const requestPrice = function requestPrice({ parameters }) {
+const requestPrice = function requestPrice({ contexts, parameters }) {
+  const contextParams = _.map(contexts, 'parameters');
+  const combinedParams = _.assign({}, ...contextParams, parameters);
+
   const { 
-    customer = _.assign({}, data.customer),
+    customer = _.assign({}, data.customer), // TODO: add customer address from params
     storeID = '10310',
-  } = parameters;
+  } = combinedParams;
 
   const item = pizzaHelper.getPizzaItem(parameters);
 
@@ -22,8 +25,9 @@ const requestPrice = function requestPrice({ parameters }) {
 };
 
 const placeOrder = function placeOrder({ contexts, parameters}) {
-  const combinedParams = _.assign({}, _.first(contexts).parameters, parameters);
-  const { 
+  const contextParams = _.map(contexts, 'parameters');
+  const combinedParams = _.assign({}, ...contextParams, parameters);
+  const {
     customer = data.customer,
     storeID = '10310',
     phone,
@@ -55,8 +59,9 @@ const findStore = function findStore({ originalRequest }) {
         const address = _.first(resp);
 
         return pizzaHelper
-        .findStoreAsync(address)
-        .then((store) => gaUtil.createFoundStoreResponse(store));
+          .findStoreAsync(address)
+          .then((store) => gaUtil.createFoundStoreResponse(store, address))
+          .tap(util.prettyPrint);
       });
   } else {
     throw 'No location coords';

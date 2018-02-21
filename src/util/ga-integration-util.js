@@ -25,19 +25,25 @@ function createOrderResponse(resp) {
   };
 };
 
-function createFoundStoreResponse(resp) {
+function createFoundStoreResponse(resp, customerAddress) {
   const { data } = resp;
-  const responseText = `${data.addressDescription}`;
+  const responseText = `${data.AddressDescription}`;
 
   return {
     speech: responseText,
     displayText: responseText,
     followupEvent: {
-      name: 'RequestPrice',
-      data: {
-        storeID: data.id, 
-      },
-    }
+      name: 'RequestPrice'
+    },
+    contextOut: [
+      {
+        name: 'store',
+        parameters: {
+          storeID: data.StoreID,
+          customerAddress,
+        }
+      }
+    ]
   };
 }
 
